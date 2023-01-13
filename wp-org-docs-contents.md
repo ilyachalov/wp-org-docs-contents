@@ -14,7 +14,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 
-## At the beginning of the work
+## At the beginning and during work
 
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
