@@ -50,6 +50,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
+- [Update Services](https://wordpress.org/support/article/update-services/)
 
 #### Administration
 
