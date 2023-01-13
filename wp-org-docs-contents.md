@@ -48,5 +48,6 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 #### Default theme descriptions
 
+- [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
