@@ -10,6 +10,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 ## At the beginning
 
+- [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 
