@@ -11,6 +11,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
+- [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 
 ## At the beginning of the work
