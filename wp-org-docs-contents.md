@@ -23,6 +23,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+- [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
