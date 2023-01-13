@@ -6,6 +6,9 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 ## At the beginning
 
+- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+
 ## Advanced
 
-[Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
+- [Using Smilies](https://wordpress.org/support/article/using-smilies/)
+- [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
