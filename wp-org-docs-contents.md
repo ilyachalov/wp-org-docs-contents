@@ -8,6 +8,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 ## At the beginning
 
+- [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 
 #### Main menu screens
@@ -18,3 +19,4 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 - [Using Smilies](https://wordpress.org/support/article/using-smilies/)
 - [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
+- [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
