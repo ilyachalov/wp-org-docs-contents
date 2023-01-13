@@ -4,9 +4,15 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 ## Before installation
 
+- [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
+
 ## At the beginning
 
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+
+#### Main menu screens
+
+- [Settings Discussion Screen](https://wordpress.org/support/article/settings-discussion-screen/)
 
 ## Advanced
 
