@@ -28,6 +28,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 - [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
+- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 
 #### Default theme descriptions
 
