@@ -37,6 +37,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Posts Screen](https://wordpress.org/support/article/posts-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Pages Screen](https://wordpress.org/support/article/pages-screen/)
+- [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
 - [Settings Discussion Screen](https://wordpress.org/support/article/settings-discussion-screen/)
 - [Settings Media Screen](https://wordpress.org/support/article/settings-media-screen/)
 - [Settings Permalinks Screen](https://wordpress.org/support/article/settings-permalinks-screen/)
