@@ -24,6 +24,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
+- [Administering Your Blog](https://wordpress.org/support/article/administering-your-blog/)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
