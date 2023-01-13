@@ -30,6 +30,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Using Smilies](https://wordpress.org/support/article/using-smilies/)
 - [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
+- [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 
 #### Administration
 
