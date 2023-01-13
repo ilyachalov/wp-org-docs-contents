@@ -10,8 +10,9 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
+- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 
-## At the beginning
+## At the beginning of the work
 
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
