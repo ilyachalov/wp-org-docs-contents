@@ -20,6 +20,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+- [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 
 #### Main menu screens
