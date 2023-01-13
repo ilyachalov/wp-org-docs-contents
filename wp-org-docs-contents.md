@@ -24,6 +24,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
+- [Taxonomies](https://wordpress.org/support/article/taxonomies/)
 
 #### Main menu screens
 
