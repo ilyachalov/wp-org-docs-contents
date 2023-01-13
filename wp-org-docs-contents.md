@@ -62,6 +62,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
+- [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 
 #### Maintenance
 
