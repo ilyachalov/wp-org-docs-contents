@@ -10,6 +10,7 @@ The category contains 59 articles, which I have further divided into the followi
 
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
 - [Requirements](https://wordpress.org/about/requirements/)
+- [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
@@ -22,7 +23,6 @@ The category contains 59 articles, which I have further divided into the followi
 
 ## At the beginning and during work
 
-- [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
