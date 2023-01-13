@@ -23,6 +23,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Pages](https://wordpress.org/support/article/pages/)
+- [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
