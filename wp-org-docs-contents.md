@@ -33,7 +33,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Glossary](https://wordpress.org/support/article/glossary/)
 
-#### Main menu screens
+#### Main menu (administration) screens
 
 - [Posts Screen](https://wordpress.org/support/article/posts-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
