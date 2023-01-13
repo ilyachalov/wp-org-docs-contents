@@ -7,10 +7,12 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
 - [Requirements](https://wordpress.org/about/requirements/)
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
+- [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 
 ## At the beginning
 
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
+- [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 
