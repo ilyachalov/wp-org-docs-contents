@@ -54,7 +54,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
 
-#### Administration
+#### Maintenance
 
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
