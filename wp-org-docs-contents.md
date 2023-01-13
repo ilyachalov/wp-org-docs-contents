@@ -6,6 +6,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
 - [Requirements](https://wordpress.org/about/requirements/)
+- [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 
 ## At the beginning
 
