@@ -17,6 +17,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+- [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 
 #### Main menu screens
 
