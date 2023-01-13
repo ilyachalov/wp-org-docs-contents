@@ -18,6 +18,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 ## At the beginning and during work
 
+- [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
