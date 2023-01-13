@@ -36,6 +36,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 #### Main menu (administration) screens
 
+- [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Posts Screen](https://wordpress.org/support/article/posts-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Pages Screen](https://wordpress.org/support/article/pages-screen/)
