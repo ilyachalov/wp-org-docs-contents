@@ -19,6 +19,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
+- [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Pages](https://wordpress.org/support/article/pages/)
