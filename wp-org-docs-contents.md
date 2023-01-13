@@ -62,6 +62,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 #### Maintenance
 
+- [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
