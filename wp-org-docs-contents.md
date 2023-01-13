@@ -26,6 +26,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
+- [Glossary](https://wordpress.org/support/article/glossary/)
 
 #### Main menu screens
 
