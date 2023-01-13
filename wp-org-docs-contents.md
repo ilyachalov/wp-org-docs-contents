@@ -40,6 +40,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 - [Posts Screen](https://wordpress.org/support/article/posts-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Pages Screen](https://wordpress.org/support/article/pages-screen/)
+- [Pages Add New Screen](https://wordpress.org/support/article/pages-add-new-screen/) (classic editor)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
 - [Settings General Screen](https://wordpress.org/support/article/settings-general-screen/)
