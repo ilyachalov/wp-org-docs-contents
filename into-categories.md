@@ -103,5 +103,6 @@ The category contains 27 articles.
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
+- [Update Services](https://wordpress.org/support/article/update-services/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
