@@ -88,3 +88,7 @@ The category contains 59 articles, which I have further divided into the followi
 The category contains 27 articles.
 
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
+- [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
+- [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
+- [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
+- 
