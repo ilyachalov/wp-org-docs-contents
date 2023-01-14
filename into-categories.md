@@ -90,6 +90,7 @@ The category contains 27 articles.
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
+- [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
