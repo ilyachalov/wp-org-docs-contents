@@ -189,3 +189,4 @@ The category contains 10 articles.
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
+- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
