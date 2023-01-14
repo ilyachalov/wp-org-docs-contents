@@ -110,5 +110,6 @@ The category contains 27 articles, which I have divided into two sections.
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
+- [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
