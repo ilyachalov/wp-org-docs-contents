@@ -123,6 +123,7 @@ The category contains 27 articles, which I have divided into two sections.
 The category contains 18 articles.
 
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
+- [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
