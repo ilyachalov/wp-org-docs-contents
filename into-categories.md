@@ -176,5 +176,6 @@ The category contains 8 articles.
 - [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
+- [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
