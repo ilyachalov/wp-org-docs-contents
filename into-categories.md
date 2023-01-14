@@ -84,3 +84,7 @@ The category contains 59 articles, which I have further divided into the followi
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 
 # Installing WordPress
+
+The category contains 27 articles.
+
+- [Before You Install](https://wordpress.org/support/article/before-you-install/)
