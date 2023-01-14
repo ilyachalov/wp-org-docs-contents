@@ -187,3 +187,4 @@ The category contains 8 articles.
 The category contains 10 articles.
 
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
+- [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
