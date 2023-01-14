@@ -17,9 +17,9 @@ The category contains 59 articles, which I have divided into the following secti
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
-- [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
+- [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 
 ## At the beginning and during work
 
