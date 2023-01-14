@@ -149,6 +149,7 @@ The category contains 11 articles.
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
+- [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
 - [Plugins](https://wordpress.org/support/article/plugins/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
 - [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
