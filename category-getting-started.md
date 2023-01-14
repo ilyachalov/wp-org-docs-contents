@@ -13,13 +13,13 @@ The category contains 59 articles, which I have divided into the following secti
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
+- [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
+- [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
-- [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
-- [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 
 ## At the beginning and during work
 
