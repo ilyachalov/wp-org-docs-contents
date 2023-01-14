@@ -112,4 +112,5 @@ The category contains 27 articles, which I have divided into two sections.
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
+- [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
