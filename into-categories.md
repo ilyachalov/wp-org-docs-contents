@@ -93,4 +93,4 @@ The category contains 27 articles.
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
-- 
+- [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
