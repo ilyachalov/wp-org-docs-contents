@@ -189,6 +189,7 @@ The category contains 10 articles.
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
+- [WordPress Privacy](https://wordpress.org/support/article/wordpress-privacy/)
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
