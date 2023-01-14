@@ -4,7 +4,7 @@ Categories, 9 links on «WordPress.org»: [Getting Started](https://wordpress.or
 
 # Getting Started
 
-The category contains 59 articles, which I have further divided into the following sections.
+The category contains 59 articles, which I have divided into the following sections.
 
 ## Before and during installation
 
@@ -85,7 +85,7 @@ The category contains 59 articles, which I have further divided into the followi
 
 # Installing WordPress
 
-The category contains 27 articles.
+The category contains 27 articles, which I have divided into two sections.
 
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
