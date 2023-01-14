@@ -189,6 +189,7 @@ The category contains 10 articles.
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
+- [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
 - [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
 - [WordPress Privacy](https://wordpress.org/support/article/wordpress-privacy/)
