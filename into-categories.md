@@ -161,4 +161,5 @@ The category contains 11 articles.
 
 The category contains 7 articles.
 
+- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
