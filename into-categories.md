@@ -133,4 +133,5 @@ The category contains 18 articles.
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
+- [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [History](https://wordpress.org/support/article/history/)
