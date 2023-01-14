@@ -164,7 +164,7 @@ The category contains 7 articles.
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
-- [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/)
+- [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
