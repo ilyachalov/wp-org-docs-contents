@@ -127,3 +127,4 @@ The category contains 18 articles.
 - [Pages](https://wordpress.org/support/article/pages/)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
+- [Media library screen](https://wordpress.org/support/article/media-library-screen/)
