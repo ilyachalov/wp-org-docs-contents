@@ -156,3 +156,9 @@ The category contains 11 articles.
 - [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
+
+# Customizing
+
+The category contains 7 articles.
+
+- [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
