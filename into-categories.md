@@ -94,6 +94,7 @@ The category contains 27 articles.
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
+- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
