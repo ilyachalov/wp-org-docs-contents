@@ -132,6 +132,7 @@ The category contains 18 articles.
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
+- [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
