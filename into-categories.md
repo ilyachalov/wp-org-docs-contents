@@ -125,6 +125,7 @@ The category contains 18 articles.
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Pages](https://wordpress.org/support/article/pages/)
+- [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
