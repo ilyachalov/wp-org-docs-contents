@@ -127,6 +127,7 @@ The category contains 18 articles.
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
+- [Blocks](https://wordpress.org/support/article/blocks/)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
