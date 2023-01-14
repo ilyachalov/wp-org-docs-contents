@@ -150,4 +150,5 @@ The category contains 11 articles.
 - [Plugins](https://wordpress.org/support/article/plugins/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
 - [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
+- [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
