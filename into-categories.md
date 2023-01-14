@@ -147,3 +147,4 @@ The category contains 11 articles.
 
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
 - [Plugins](https://wordpress.org/support/article/plugins/)
+- [Cookies](https://wordpress.org/support/article/cookies/)
