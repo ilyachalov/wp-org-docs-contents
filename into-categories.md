@@ -91,6 +91,7 @@ The category contains 27 articles.
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
+- [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
@@ -100,4 +101,3 @@ The category contains 27 articles.
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
-- [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
