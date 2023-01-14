@@ -82,3 +82,5 @@ The category contains 59 articles, which I have further divided into the followi
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
+
+# Installing WordPress
