@@ -123,5 +123,5 @@ The category contains 27 articles, which I have divided into two sections.
 The category contains 18 articles.
 
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
-- [List View](https://wordpress.org/support/article/list-view/)
+- [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - 
