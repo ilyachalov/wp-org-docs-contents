@@ -128,6 +128,7 @@ The category contains 18 articles.
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
+- [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
