@@ -196,3 +196,15 @@ The category contains 10 articles.
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
+
+# Advanced Topics
+
+The category contains 34 articles.
+
+-
+
+# Troubleshooting
+
+The category contains 17 articles.
+
+-
