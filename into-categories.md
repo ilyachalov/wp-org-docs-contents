@@ -90,6 +90,7 @@ The category contains 27 articles, which I have divided into two sections.
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
+- [Nginx](https://wordpress.org/support/article/nginx/)
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
