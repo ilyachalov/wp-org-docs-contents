@@ -174,3 +174,4 @@ The category contains 7 articles.
 The category contains 8 articles.
 
 - [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
+- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
