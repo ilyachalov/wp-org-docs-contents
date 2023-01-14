@@ -88,6 +88,7 @@ The category contains 59 articles, which I have divided into the following secti
 The category contains 27 articles, which I have divided into two sections.
 
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
+- [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
