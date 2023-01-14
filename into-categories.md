@@ -146,6 +146,7 @@ The category contains 18 articles.
 The category contains 11 articles.
 
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
+- [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Plugins](https://wordpress.org/support/article/plugins/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
 - [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
