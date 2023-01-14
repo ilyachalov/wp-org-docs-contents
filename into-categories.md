@@ -181,3 +181,9 @@ The category contains 8 articles.
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
+
+# Security
+
+The category contains 10 articles.
+
+- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
