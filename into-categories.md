@@ -140,3 +140,9 @@ The category contains 18 articles.
 - [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [History](https://wordpress.org/support/article/history/)
+
+# Basic Administration
+
+The category contains 11 articles.
+
+- [Administration Screens](https://wordpress.org/support/article/administration-screens/)
