@@ -99,5 +99,5 @@ The category contains 27 articles.
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
+- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
