@@ -99,8 +99,9 @@ The category contains 27 articles.
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
-- [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
+
+- [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
