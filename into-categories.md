@@ -168,3 +168,9 @@ The category contains 7 articles.
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
+
+# Maintenance
+
+The category contains 8 articles.
+
+- [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
