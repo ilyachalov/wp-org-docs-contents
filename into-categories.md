@@ -210,6 +210,7 @@ The category contains 34 articles.
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
+- [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Post Status](https://wordpress.org/support/article/post-status/)
 - [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
