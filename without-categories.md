@@ -91,14 +91,6 @@
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 
-# Installing WordPress
-
-## After installation
-
-- [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
-- [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
-
 # Basic Usage
 
 The category contains 18 articles.
