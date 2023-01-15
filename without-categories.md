@@ -103,7 +103,6 @@
 
 # Basic Administration
 
-- [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
 - [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
 - [Plugins](https://wordpress.org/support/article/plugins/)
