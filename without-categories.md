@@ -70,6 +70,7 @@
 ## Advanced
 
 - [Using Smilies](https://wordpress.org/support/article/using-smilies/)
+- [Cookies](https://wordpress.org/support/article/cookies/)
 - [Creating a Static Front Page](https://wordpress.org/support/article/creating-a-static-front-page/)
 - [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
@@ -106,7 +107,6 @@
 
 # Basic Administration
 
-- [Cookies](https://wordpress.org/support/article/cookies/)
 - [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
 - [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
