@@ -46,6 +46,7 @@
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
+- [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Glossary](https://wordpress.org/support/article/glossary/)
 
 #### Main menu (administration) screens
@@ -98,7 +99,6 @@
 
 # Basic Usage
 
-- [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
