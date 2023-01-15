@@ -61,6 +61,7 @@
 - [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
+- [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [Settings General Screen](https://wordpress.org/support/article/settings-general-screen/)
 - [Settings Writing Screen](https://wordpress.org/support/article/settings-writing-screen/)
 - [Settings Reading Screen](https://wordpress.org/support/article/settings-reading-screen/)
@@ -108,7 +109,6 @@
 
 # Basic Administration
 
-- [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 
