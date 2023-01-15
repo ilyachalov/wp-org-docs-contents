@@ -123,8 +123,6 @@
 
 # Security
 
-- [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
-- [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
 - [WordPress Privacy](https://wordpress.org/support/article/wordpress-privacy/)
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
