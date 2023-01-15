@@ -111,7 +111,6 @@
 
 # Customizing
 
-- [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
 - [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
