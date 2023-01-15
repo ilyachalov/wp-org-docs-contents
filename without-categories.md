@@ -47,6 +47,7 @@
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
+- [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
 - [Glossary](https://wordpress.org/support/article/glossary/)
 
 #### Main menu (administration) screens
@@ -99,7 +100,6 @@
 
 # Basic Usage
 
-- [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [History](https://wordpress.org/support/article/history/)
 
