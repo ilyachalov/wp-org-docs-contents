@@ -242,6 +242,7 @@ The category contains 17 articles.
 
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
+- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
