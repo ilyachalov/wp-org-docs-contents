@@ -19,6 +19,8 @@
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
+- [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
+- [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
@@ -87,8 +89,6 @@
 
 # Installing WordPress
 
-- [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
-- [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Configuring Wildcard Subdomains](https://wordpress.org/support/article/configuring-wildcard-subdomains/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 
