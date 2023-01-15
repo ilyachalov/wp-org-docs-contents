@@ -93,7 +93,6 @@
 
 # Basic Usage
 
-- [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Blocks](https://wordpress.org/support/article/blocks/)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
