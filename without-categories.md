@@ -110,6 +110,10 @@
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 
+#### Security
+
+-
+
 #### Default theme descriptions
 
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
