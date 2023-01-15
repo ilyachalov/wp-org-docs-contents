@@ -96,6 +96,7 @@
 
 - [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
 - [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
+- [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
 - [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
@@ -114,7 +115,6 @@
 
 # Maintenance
 
-- [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
