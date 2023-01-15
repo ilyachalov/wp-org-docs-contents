@@ -202,6 +202,7 @@ The category contains 10 articles.
 The category contains 34 articles.
 
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
+- [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
 
 # Troubleshooting
 
