@@ -215,6 +215,7 @@ The category contains 34 articles.
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
+- [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 
 # Troubleshooting
 
