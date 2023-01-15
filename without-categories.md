@@ -105,6 +105,8 @@
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
 - [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
+- [Optimization](https://wordpress.org/support/article/optimization/)
+- [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 
 #### Default theme descriptions
@@ -115,8 +117,6 @@
 
 # Maintenance
 
-- [Optimization](https://wordpress.org/support/article/optimization/)
-- [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 
