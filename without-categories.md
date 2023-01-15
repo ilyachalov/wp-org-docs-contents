@@ -81,6 +81,7 @@
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
+- [History](https://wordpress.org/support/article/history/)
 
 #### Maintenance
 
@@ -98,10 +99,6 @@
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
-
-# Basic Usage
-
-- [History](https://wordpress.org/support/article/history/)
 
 # Basic Administration
 
