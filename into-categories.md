@@ -245,6 +245,7 @@ The category contains 17 articles.
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
+- [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
