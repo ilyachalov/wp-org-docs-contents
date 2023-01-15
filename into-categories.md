@@ -201,7 +201,7 @@ The category contains 10 articles.
 
 The category contains 34 articles.
 
--
+- [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 
 # Troubleshooting
 
