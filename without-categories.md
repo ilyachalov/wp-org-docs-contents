@@ -58,6 +58,7 @@
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Pages Screen](https://wordpress.org/support/article/pages-screen/)
 - [Pages Add New Screen](https://wordpress.org/support/article/pages-add-new-screen/) (classic editor)
+- [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
 - [Settings General Screen](https://wordpress.org/support/article/settings-general-screen/)
@@ -107,7 +108,6 @@
 
 # Basic Administration
 
-- [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
 - [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
