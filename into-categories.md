@@ -219,6 +219,7 @@ The category contains 34 articles.
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
+- [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
