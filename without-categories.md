@@ -115,6 +115,8 @@
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [WordPress Privacy](https://wordpress.org/support/article/wordpress-privacy/)
+- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
+- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 
 #### Default theme descriptions
@@ -123,14 +125,7 @@
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 
-# Security
-
-- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
-- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
-
 # Advanced Topics
-
-The category contains 34 articles.
 
 - [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
