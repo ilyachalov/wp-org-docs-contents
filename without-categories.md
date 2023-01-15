@@ -112,7 +112,7 @@
 
 #### Security
 
--
+- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 
 #### Default theme descriptions
 
@@ -122,7 +122,6 @@
 
 # Security
 
-- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [Supported Versions](https://wordpress.org/support/article/supported-versions/)
