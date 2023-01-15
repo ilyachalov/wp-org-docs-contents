@@ -38,6 +38,7 @@
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
+- [Blocks](https://wordpress.org/support/article/blocks/)
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
@@ -93,7 +94,6 @@
 
 # Basic Usage
 
-- [Blocks](https://wordpress.org/support/article/blocks/)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
