@@ -30,6 +30,7 @@
 
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
+- [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
@@ -92,7 +93,6 @@
 
 ## After installation
 
-- [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
