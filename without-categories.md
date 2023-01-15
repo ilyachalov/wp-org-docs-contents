@@ -4,6 +4,7 @@
 
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
+- [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Requirements](https://wordpress.org/about/requirements/)
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
@@ -81,7 +82,6 @@
 
 # Installing WordPress
 
-- [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
