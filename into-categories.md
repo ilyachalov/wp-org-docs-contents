@@ -209,6 +209,7 @@ The category contains 34 articles.
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+- [Post Status](https://wordpress.org/support/article/post-status/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
