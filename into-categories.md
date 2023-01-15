@@ -248,6 +248,7 @@ The category contains 17 articles.
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
+- [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
