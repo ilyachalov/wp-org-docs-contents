@@ -73,6 +73,7 @@
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 
 #### Maintenance
 
@@ -93,7 +94,6 @@
 
 ## After installation
 
-- [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
