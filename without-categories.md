@@ -80,7 +80,6 @@
 
 # Installing WordPress
 
-- [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
