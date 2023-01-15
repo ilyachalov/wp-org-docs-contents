@@ -205,6 +205,7 @@ The category contains 34 articles.
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
+- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
