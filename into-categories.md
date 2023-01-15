@@ -210,6 +210,7 @@ The category contains 34 articles.
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Post Status](https://wordpress.org/support/article/post-status/)
+- [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
