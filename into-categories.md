@@ -201,9 +201,10 @@ The category contains 10 articles.
 
 The category contains 34 articles.
 
+- [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
+- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
-- [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 
 # Troubleshooting
 
