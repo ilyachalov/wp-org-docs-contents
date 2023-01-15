@@ -8,6 +8,7 @@
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
+- [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
@@ -80,7 +81,6 @@
 
 # Installing WordPress
 
-- [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
