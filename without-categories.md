@@ -117,7 +117,6 @@
 
 # Maintenance
 
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 
 # Security
