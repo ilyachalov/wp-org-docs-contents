@@ -206,7 +206,6 @@ The category contains 34 articles.
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
-- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
@@ -219,6 +218,8 @@ The category contains 34 articles.
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
+- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
+- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
 
 # Troubleshooting
 
