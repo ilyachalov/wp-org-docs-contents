@@ -3,6 +3,7 @@
 ## Before and during installation
 
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
+- [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
 - [Requirements](https://wordpress.org/about/requirements/)
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
@@ -79,9 +80,6 @@
 
 # Installing WordPress
 
-The category contains 27 articles, which I have divided into two sections.
-
-- [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
