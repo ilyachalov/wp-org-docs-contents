@@ -89,6 +89,7 @@
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
+- [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [History](https://wordpress.org/support/article/history/)
 
 #### Maintenance
@@ -113,7 +114,6 @@
 
 # Maintenance
 
-- [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
