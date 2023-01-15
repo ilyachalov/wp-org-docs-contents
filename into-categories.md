@@ -213,6 +213,7 @@ The category contains 34 articles.
 - [Post Status](https://wordpress.org/support/article/post-status/)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
+- [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
 - [Post Types](https://wordpress.org/support/article/post-types/)
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
