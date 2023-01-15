@@ -95,7 +95,6 @@
 
 ## After installation
 
-- [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
