@@ -226,6 +226,7 @@ The category contains 34 articles.
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
+- [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
