@@ -202,6 +202,7 @@ The category contains 10 articles.
 The category contains 34 articles.
 
 - [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
+- [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
