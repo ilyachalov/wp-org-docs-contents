@@ -204,6 +204,7 @@ The category contains 34 articles.
 - [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
+- [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
