@@ -89,6 +89,7 @@
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
+- [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
 - [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
@@ -102,7 +103,6 @@
 
 # Basic Administration
 
-- [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
 - [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
