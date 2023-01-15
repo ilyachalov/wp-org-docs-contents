@@ -246,3 +246,4 @@ The category contains 17 articles.
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
+- [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
