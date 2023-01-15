@@ -244,3 +244,4 @@ The category contains 17 articles.
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
+- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
