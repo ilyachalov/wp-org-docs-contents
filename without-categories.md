@@ -90,6 +90,7 @@
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
+- [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 - [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [History](https://wordpress.org/support/article/history/)
 
@@ -127,7 +128,6 @@
 
 # Advanced Topics
 
-- [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
