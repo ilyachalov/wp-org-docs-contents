@@ -95,7 +95,6 @@
 
 # Basic Usage
 
-- [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
 - [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
