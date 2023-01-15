@@ -13,6 +13,7 @@
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
+- [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
@@ -84,7 +85,6 @@
 
 # Installing WordPress
 
-- [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
