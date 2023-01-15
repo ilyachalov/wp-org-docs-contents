@@ -79,6 +79,7 @@
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
+- [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
 - [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
@@ -112,7 +113,6 @@
 
 # Customizing
 
-- [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
