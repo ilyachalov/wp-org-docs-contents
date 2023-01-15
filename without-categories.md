@@ -80,6 +80,7 @@
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 
 #### Maintenance
 
@@ -100,7 +101,6 @@
 
 # Basic Usage
 
-- [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [History](https://wordpress.org/support/article/history/)
 
 # Basic Administration
