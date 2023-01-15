@@ -212,6 +212,7 @@ The category contains 34 articles.
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Post Status](https://wordpress.org/support/article/post-status/)
+- [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
 - [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
