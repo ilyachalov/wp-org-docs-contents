@@ -71,6 +71,7 @@
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
+- [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
@@ -94,7 +95,6 @@
 
 # Basic Usage
 
-- [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
