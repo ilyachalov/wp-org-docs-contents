@@ -82,7 +82,6 @@
 
 # Installing WordPress
 
-- [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
