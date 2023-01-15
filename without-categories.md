@@ -10,6 +10,7 @@
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
+- [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
@@ -83,7 +84,6 @@
 
 # Installing WordPress
 
-- [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
