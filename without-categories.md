@@ -111,7 +111,6 @@
 
 # Customizing
 
-- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
 - [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
