@@ -102,8 +102,6 @@
 
 # Basic Administration
 
-The category contains 11 articles.
-
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
