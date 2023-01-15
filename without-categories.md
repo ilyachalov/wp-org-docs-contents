@@ -93,7 +93,6 @@
 
 # Basic Usage
 
-- [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Blocks](https://wordpress.org/support/article/blocks/)
