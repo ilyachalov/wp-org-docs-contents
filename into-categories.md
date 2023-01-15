@@ -205,6 +205,7 @@ The category contains 34 articles.
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
+- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
