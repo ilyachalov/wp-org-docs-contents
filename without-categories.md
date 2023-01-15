@@ -36,6 +36,7 @@
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
 - [Administering Your Blog](https://wordpress.org/support/article/administering-your-blog/)
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
+- [Plugins](https://wordpress.org/support/article/plugins/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
@@ -105,7 +106,6 @@
 
 # Basic Administration
 
-- [Plugins](https://wordpress.org/support/article/plugins/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
 - [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
 - [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
