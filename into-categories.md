@@ -213,6 +213,7 @@ The category contains 34 articles.
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
+- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 
 # Troubleshooting
 
