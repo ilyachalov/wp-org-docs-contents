@@ -74,6 +74,7 @@
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
+- [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
@@ -97,7 +98,6 @@
 
 # Basic Usage
 
-- [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
