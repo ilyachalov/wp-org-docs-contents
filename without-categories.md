@@ -99,7 +99,6 @@
 
 # Basic Usage
 
-- [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
 - [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
