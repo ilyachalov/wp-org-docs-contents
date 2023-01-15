@@ -204,6 +204,7 @@ The category contains 34 articles.
 - [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+- [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
 - [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
 
