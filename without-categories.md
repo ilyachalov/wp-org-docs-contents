@@ -87,6 +87,7 @@
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [Supported Versions](https://wordpress.org/support/article/supported-versions/)
@@ -115,13 +116,7 @@
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 
-# Maintenance
-
-- [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
-
 # Security
-
-The category contains 10 articles.
 
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
