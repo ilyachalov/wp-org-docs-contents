@@ -85,6 +85,7 @@
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [History](https://wordpress.org/support/article/history/)
 
@@ -108,13 +109,7 @@
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 
-# Basic Administration
-
-- [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
-
 # Customizing
-
-The category contains 7 articles.
 
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
