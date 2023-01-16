@@ -77,6 +77,7 @@
 ## Advanced
 
 - [Using Smilies](https://wordpress.org/support/article/using-smilies/)
+- [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
 - [Creating a Static Front Page](https://wordpress.org/support/article/creating-a-static-front-page/)
 - [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
@@ -134,7 +135,6 @@
 
 # Advanced Topics
 
-- [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
 - [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
