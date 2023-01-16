@@ -32,4 +32,5 @@
 - справочное руководство «MySQL 8.0 Reference Manual» на сайте [dev.mysql.com/doc/refman/8.0/en/](https://dev.mysql.com/doc/refman/8.0/en/);
 - руководство «PHP Manual» на сайте [www.php.net/manual/en/](https://www.php.net/manual/en/);
 - разделы справки в «LiveJournal» («Живом Журнале») на сайте [www.livejournal.com/support/faq/](https://www.livejournal.com/support/faq/)
+
 и так далее (много примеров).
