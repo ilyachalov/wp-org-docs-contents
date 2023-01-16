@@ -114,6 +114,7 @@
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
+- [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
 - [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
@@ -141,7 +142,6 @@
 
 # Advanced Topics
 
-- [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
