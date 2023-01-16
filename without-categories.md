@@ -89,6 +89,7 @@
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
@@ -130,7 +131,6 @@
 
 # Advanced Topics
 
-- [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
