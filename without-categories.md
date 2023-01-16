@@ -1,5 +1,7 @@
 [WordPress.org Support Documentation](https://wordpress.org/support/)
 
+This list only lists articles included in the support documentation categories on the 'WordPress.org' website. Website 'WordPress.org' contains many more articles that are not included in the categories of support documentation. Links to articles not listed here are available from within those listed.
+
 # Before and during installation
 
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
