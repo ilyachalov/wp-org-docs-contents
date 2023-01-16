@@ -55,7 +55,7 @@
 - [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
 - [Glossary](https://wordpress.org/support/article/glossary/)
 
-#### Main menu (administration) screens
+## Main menu (administration) screens
 
 Not all articles about administration screens are listed here.
 
@@ -106,7 +106,7 @@ Not all articles about administration screens are listed here.
 - [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [History](https://wordpress.org/support/article/history/)
 
-#### Maintenance
+## Maintenance
 
 - [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
 - [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
@@ -130,7 +130,7 @@ Not all articles about administration screens are listed here.
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 
-#### Security
+## Security
 
 - [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
@@ -139,7 +139,7 @@ Not all articles about administration screens are listed here.
 - [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 
-#### Default theme descriptions
+## Default theme descriptions
 
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
