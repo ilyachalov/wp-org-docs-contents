@@ -33,4 +33,4 @@
 - руководство «PHP Manual» на сайте [www.php.net/manual/en/](https://www.php.net/manual/en/);
 - разделы справки в «LiveJournal» («Живом Журнале») на сайте [www.livejournal.com/support/faq/](https://www.livejournal.com/support/faq/)
 
-и так далее (много примеров).
+и так далее (есть еще много примеров).
