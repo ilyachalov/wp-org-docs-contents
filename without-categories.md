@@ -57,6 +57,8 @@
 
 #### Main menu (administration) screens
 
+Not all articles about administration screens are listed here.
+
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Posts Screen](https://wordpress.org/support/article/posts-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
