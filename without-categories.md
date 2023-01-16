@@ -135,7 +135,6 @@
 
 # Advanced Topics
 
-- [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
 - [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
 - [Post Types](https://wordpress.org/support/article/post-types/)
