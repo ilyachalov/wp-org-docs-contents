@@ -92,6 +92,7 @@
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
 - [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
 - [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
+- [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
@@ -138,7 +139,6 @@
 
 # Advanced Topics
 
-- [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
 - [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
