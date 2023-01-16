@@ -144,6 +144,4 @@
 
 # Troubleshooting
 
-- [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
-- [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 - [FAQ Troubleshooting](https://wordpress.org/support/article/faq-troubleshooting/)
