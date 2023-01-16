@@ -143,7 +143,6 @@
 
 # Troubleshooting
 
-- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
