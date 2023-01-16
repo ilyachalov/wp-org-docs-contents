@@ -129,8 +129,6 @@
 
 # Advanced Topics
 
-- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
-- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
