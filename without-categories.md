@@ -141,7 +141,7 @@ Not all articles about administration screens are listed here. On each administr
 
 ## Default theme descriptions
 
-Not all articles about default themes are listed here. These default themes are named by year number, but were created at the end of the previous year.
+Not all articles about default themes are listed here. These default themes are named by year number, but were created at the end of the previous year. Each 'WordPress' release distribution does not contain all default themes. For example, release 6.1.1 contains only 'Twenty Twenty-One', 'Twenty Twenty-Two' and 'Twenty Twenty-Three', but other themes can be installed additionally.
 
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
