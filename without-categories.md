@@ -142,7 +142,6 @@
 
 # Troubleshooting
 
-- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
