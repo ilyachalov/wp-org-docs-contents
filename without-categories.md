@@ -142,9 +142,6 @@
 
 # Troubleshooting
 
-- [htaccess](https://wordpress.org/support/article/htaccess/)
-- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
-- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
