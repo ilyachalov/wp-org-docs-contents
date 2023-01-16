@@ -142,7 +142,6 @@
 
 # Troubleshooting
 
-- [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
