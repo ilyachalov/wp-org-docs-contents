@@ -146,3 +146,4 @@ Not all articles about administration screens are listed here. On each administr
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 - [Twenty Nineteen](https://wordpress.org/support/article/twenty-nineteen/)
 - [Twenty Twenty](https://wordpress.org/support/article/twenty-twenty/)
+- [Twenty Twenty-One](https://wordpress.org/support/article/twenty-twenty-one/)
