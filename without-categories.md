@@ -47,6 +47,7 @@
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
+- [Post Status](https://wordpress.org/support/article/post-status/)
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
@@ -133,7 +134,6 @@
 
 # Advanced Topics
 
-- [Post Status](https://wordpress.org/support/article/post-status/)
 - [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
