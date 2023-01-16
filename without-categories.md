@@ -116,6 +116,7 @@
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
+- [FAQ Troubleshooting](https://wordpress.org/support/article/faq-troubleshooting/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
@@ -141,7 +142,3 @@
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
-
-# Troubleshooting
-
-- [FAQ Troubleshooting](https://wordpress.org/support/article/faq-troubleshooting/)
