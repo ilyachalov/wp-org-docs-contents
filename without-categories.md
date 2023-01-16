@@ -17,6 +17,7 @@
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
+- [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
@@ -131,7 +132,6 @@
 
 # Advanced Topics
 
-- [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
