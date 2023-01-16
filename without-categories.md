@@ -114,6 +114,7 @@
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
+- [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 
 #### Security
 
@@ -132,7 +133,6 @@
 
 # Advanced Topics
 
-- [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
