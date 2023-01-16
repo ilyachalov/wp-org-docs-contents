@@ -133,7 +133,6 @@
 
 # Advanced Topics
 
-- [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Post Status](https://wordpress.org/support/article/post-status/)
 - [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
