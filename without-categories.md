@@ -85,6 +85,7 @@
 - [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
+- [Post Types](https://wordpress.org/support/article/post-types/)
 - [Post Formats](https://wordpress.org/support/article/post-formats/)
 - [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
@@ -137,7 +138,6 @@
 
 # Advanced Topics
 
-- [Post Types](https://wordpress.org/support/article/post-types/)
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
 - [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
