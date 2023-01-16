@@ -31,6 +31,8 @@
 
 # At the beginning and during work
 
+The articles in this section are suggested to be read first to start filling your site with content. If you didn't find something in this section, try searching in the 'Advanced' section.
+
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
