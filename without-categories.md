@@ -115,6 +115,7 @@
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
+- [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
 - [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
@@ -142,7 +143,6 @@
 
 # Troubleshooting
 
-- [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
