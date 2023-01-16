@@ -17,6 +17,7 @@
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
+- [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
@@ -128,7 +129,6 @@
 
 # Advanced Topics
 
-- [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
