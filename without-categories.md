@@ -140,7 +140,6 @@
 
 # Advanced Topics
 
-- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
