@@ -1,6 +1,6 @@
 [WordPress.org Support Documentation](https://wordpress.org/support/)
 
-## Before and during installation
+# Before and during installation
 
 - [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
@@ -29,7 +29,7 @@
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 
-## At the beginning and during work
+# At the beginning and during work
 
 - [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
 - [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
@@ -76,7 +76,7 @@ Not all articles about administration screens are listed here.
 - [Settings Media Screen](https://wordpress.org/support/article/settings-media-screen/)
 - [Settings Permalinks Screen](https://wordpress.org/support/article/settings-permalinks-screen/)
 
-## Advanced
+# Advanced
 
 - [Using Smilies](https://wordpress.org/support/article/using-smilies/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
