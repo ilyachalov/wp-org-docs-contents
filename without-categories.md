@@ -133,8 +133,6 @@
 
 # Advanced Topics
 
-- [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
-- [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Post Status](https://wordpress.org/support/article/post-status/)
