@@ -140,16 +140,7 @@
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
 
-# Advanced Topics
-
-- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
-- [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
-- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
-- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
-
 # Troubleshooting
-
-The category contains 17 articles.
 
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
