@@ -141,6 +141,8 @@ Not all articles about administration screens are listed here. On each administr
 
 ## Default theme descriptions
 
+Not all articles about default themes are listed here.
+
 - [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
 - [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
 - [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
