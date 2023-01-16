@@ -115,6 +115,7 @@
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
+- [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Plugin and themes auto-updates](https://wordpress.org/support/article/plugins-themes-auto-updates/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
@@ -143,7 +144,6 @@
 
 # Troubleshooting
 
-- [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
