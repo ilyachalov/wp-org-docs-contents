@@ -13,6 +13,7 @@
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
+- [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
@@ -129,7 +130,6 @@
 
 # Advanced Topics
 
-- [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
 - [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
