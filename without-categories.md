@@ -132,7 +132,6 @@
 
 # Advanced Topics
 
-- [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
