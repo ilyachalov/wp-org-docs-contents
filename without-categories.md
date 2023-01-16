@@ -133,7 +133,6 @@
 
 # Advanced Topics
 
-- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Post Status](https://wordpress.org/support/article/post-status/)
 - [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
