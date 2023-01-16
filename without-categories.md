@@ -57,7 +57,7 @@
 
 ## Main menu (administration) screens
 
-Not all articles about administration screens are listed here.
+Not all articles about administration screens are listed here. On each administration screen in the hanging tab **Help** under the toolbar, you can find a link to an article about this screen on the website 'WordPress.org'.
 
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Posts Screen](https://wordpress.org/support/article/posts-screen/)
