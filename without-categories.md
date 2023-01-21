@@ -6,7 +6,7 @@ This list only lists articles included in the support documentation _categories_
 
 - Overview of WordPress ([deleted](https://wordpress.org/support/article/overview-of-wordpress/), web.archive.org: [17.01.2023](https://web.archive.org/web/20230117010343/https://wordpress.org/support/article/overview-of-wordpress/))
 - [WordPress Features](https://wordpress.org/about/features/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-features/ -->
-- [Before You Install](https://wordpress.org/support/article/before-you-install/)
+- [Before You Install](https://wordpress.org/documentation/article/before-you-install/) <!-- до 17.01.2023: https://wordpress.org/support/article/before-you-install/ -->
 - [Requirements](https://wordpress.org/about/requirements/)
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
