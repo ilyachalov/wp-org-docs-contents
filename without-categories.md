@@ -9,7 +9,7 @@ This list only lists articles included in the support documentation _categories_
 - [Before You Install](https://wordpress.org/documentation/article/before-you-install/) <!-- до 17.01.2023: https://wordpress.org/support/article/before-you-install/ -->
 - [Requirements](https://wordpress.org/about/requirements/)
 - [New to WordPress – Where to start](https://wordpress.org/documentation/article/get-started-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/new-to-wordpress-where-to-start/ -->
-- [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
+- [WordPress.org and WordPress.com](https://wordpress.org/documentation/article/wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-org-and-wordpress-com/ -->
 - [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
 - [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
