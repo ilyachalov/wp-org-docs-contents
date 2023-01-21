@@ -4,7 +4,7 @@ This list only lists articles included in the support documentation _categories_
 
 # Before and during installation
 
-- [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
+- Overview of WordPress ([deleted](https://wordpress.org/support/article/overview-of-wordpress/), web.archive.org: [17.01.2023](https://web.archive.org/web/20230117010343/https://wordpress.org/support/article/overview-of-wordpress/))
 - [WordPress Features](https://wordpress.org/support/article/wordpress-features/)
 - [Before You Install](https://wordpress.org/support/article/before-you-install/)
 - [Requirements](https://wordpress.org/about/requirements/)
