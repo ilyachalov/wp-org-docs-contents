@@ -51,8 +51,8 @@ The category contains 59 articles, which I have divided into the following secti
 
 #### Main menu (administration) screens
 
-- [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
-- [Posts Screen](https://wordpress.org/support/article/posts-screen/)
+- [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/dashboard-screen/ -->
+- [Posts Screen](https://wordpress.org/documentation/article/posts-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/posts-screen/ -->
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Pages Screen](https://wordpress.org/support/article/pages-screen/)
 - [Pages Add New Screen](https://wordpress.org/support/article/pages-add-new-screen/) (classic editor)
