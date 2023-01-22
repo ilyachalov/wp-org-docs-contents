@@ -70,7 +70,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Pages Add New Screen](https://wordpress.org/documentation/article/pages-add-new-screen/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/pages-add-new-screen/ -->
 - [Appearance Customize Screen, Customizer](https://wordpress.org/documentation/article/customizer/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-customize-screen/ -->
 - [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-menus-screen/ -->
-- [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
+- [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/users-your-profile-screen/ -->
 - [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - (Tools) [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
 - [Settings General Screen](https://wordpress.org/support/article/settings-general-screen/)
