@@ -88,7 +88,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Sticky Posts](https://wordpress.org/documentation/article/sticky-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/sticky-posts/ -->
 - [Cookies](https://wordpress.org/documentation/article/cookies/) <!-- до 17.01.2023: https://wordpress.org/support/article/cookies/ -->
 - [Create a static front page](https://wordpress.org/documentation/article/create-a-static-front-page/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-a-static-front-page/ -->
-- [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
+- [Create a Search Page](https://wordpress.org/documentation/article/create-a-search-page/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-a-search-page/ -->
 - [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Post Types](https://wordpress.org/support/article/post-types/)
