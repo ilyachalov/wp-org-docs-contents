@@ -9,7 +9,7 @@ Until 17.01.2023: categories, 9 links on «WordPress.org»:
 - [Maintenance](https://wordpress.org/support/category/maintenance/) (now 'Technical guides/[Maintenance](https://wordpress.org/documentation/category/maintenance/)'),
 - [Security](https://wordpress.org/support/category/security/) (now 'Technical guides/[Security](https://wordpress.org/documentation/category/security/)'),
 - [Advanced Topics](https://wordpress.org/support/category/advanced-topics/) (now '[DevHub](https://wordpress.org/documentation/category/devhub/)', not to be confused with [developer.wordpress.org](https://developer.wordpress.org/)),
-- [Troubleshooting](https://wordpress.org/support/category/troubleshooting/).
+- [Troubleshooting](https://wordpress.org/support/category/troubleshooting/) (now 'WordPress overview/[FAQs](https://wordpress.org/documentation/category/faqs/)').
 
 # Getting Started
 
