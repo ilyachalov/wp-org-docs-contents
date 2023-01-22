@@ -120,7 +120,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
 - [Test driving WordPress](https://wordpress.org/documentation/article/test-driving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/test-driving-wordpress/ -->
 - [Debugging in WordPress](https://wordpress.org/documentation/article/debugging-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/debugging-in-wordpress/ -->
-- [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
+- [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/documentation/article/using-your-browser-to-diagnose-javascript-errors/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/ -->
 - [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
 - [FAQ Troubleshooting](https://wordpress.org/support/article/faq-troubleshooting/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
