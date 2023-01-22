@@ -41,7 +41,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Administration Screens](https://wordpress.org/documentation/article/administration-screens/) <!-- до 17.01.2023: https://wordpress.org/support/article/administration-screens/ -->
 - [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-classic/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress-classic/ -->
 - [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-block-editor/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress/ -->
-- [Administering Your Blog](https://wordpress.org/support/article/administering-your-blog/)
+- [Administering Your Blog](https://wordpress.org/documentation/article/administer-your-blog/) <!-- до 17.01.2023: https://wordpress.org/support/article/administering-your-blog/ -->
 - [Using Themes](https://wordpress.org/support/article/using-themes/)
 - [Plugins](https://wordpress.org/support/article/plugins/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
