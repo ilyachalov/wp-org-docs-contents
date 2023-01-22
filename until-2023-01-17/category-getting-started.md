@@ -8,7 +8,7 @@ Until 17.01.2023: categories, 9 links on «WordPress.org»:
 - [Customizing](https://wordpress.org/support/category/customizing/) (now '[Customization](https://wordpress.org/documentation/customization/)'),
 - [Maintenance](https://wordpress.org/support/category/maintenance/) (now 'Technical guides/[Maintenance](https://wordpress.org/documentation/category/maintenance/)'),
 - [Security](https://wordpress.org/support/category/security/) (now 'Technical guides/[Security](https://wordpress.org/documentation/category/security/)'),
-- [Advanced Topics](https://wordpress.org/support/category/advanced-topics/),
+- [Advanced Topics](https://wordpress.org/support/category/advanced-topics/) (now '[DevHub](https://wordpress.org/documentation/category/devhub/)'),
 - [Troubleshooting](https://wordpress.org/support/category/troubleshooting/).
 
 # Getting Started
