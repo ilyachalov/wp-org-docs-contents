@@ -52,7 +52,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Comments in WordPress](https://wordpress.org/documentation/article/comments-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/comments-in-wordpress/ -->
 - [Write Posts](https://wordpress.org/documentation/article/write-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/writing-posts/ -->
 - [Post Status](https://wordpress.org/documentation/article/post-status/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-status/ -->
-- [Content Visibility](https://wordpress.org/support/article/content-visibility/)
+- [Set blog content visibility](https://wordpress.org/documentation/article/content-visibility-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/content-visibility/ -->
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
