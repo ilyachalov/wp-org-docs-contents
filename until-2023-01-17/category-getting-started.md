@@ -25,7 +25,7 @@ The category contains 59 articles, which I have divided into the following secti
 - [FTP Clients](https://wordpress.org/documentation/article/ftp-clients/) <!-- до 17.01.2023: https://wordpress.org/support/article/ftp-clients/ -->
 - [Using FileZilla](https://wordpress.org/documentation/article/using-filezilla/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-filezilla/ -->
 - [Giving WordPress Its Own Directory](https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/giving-wordpress-its-own-directory/ -->
-- [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
+- [Installing Multiple WordPress Instances](https://wordpress.org/documentation/article/installing-multiple-blogs/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-multiple-blogs/ -->
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
