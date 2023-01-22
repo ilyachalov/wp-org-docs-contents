@@ -146,9 +146,9 @@ The category contains 18 articles.
 - [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/dashboard-screen/ -->
 - [Media library screen](https://wordpress.org/documentation/article/media-library-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/media-library-screen/ -->
 - [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/users-your-profile-screen/ -->
-- [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
-- [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
-- [History](https://wordpress.org/support/article/history/)
+- [Where to find WordPress help](https://wordpress.org/documentation/article/where-to-find-wordpress-help/) <!-- до 17.01.2023: https://wordpress.org/support/article/finding-wordpress-help/ -->
+- [Become a WordPress contributor](https://wordpress.org/documentation/article/become-a-wordpress-contributor/) <!-- до 17.01.2023: https://wordpress.org/support/article/contributing-to-wordpress/ -->
+- [Learn about WordPress origins and version history](https://wordpress.org/documentation/article/learn-about-wordpress-and-version-history/) <!-- до 17.01.2023: https://wordpress.org/support/article/history/ -->
 
 # Basic Administration
 
