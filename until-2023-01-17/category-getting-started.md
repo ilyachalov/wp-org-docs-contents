@@ -17,7 +17,7 @@ The category contains 59 articles, which I have divided into the following secti
 
 ## Before and during installation
 
-- [Overview of WordPress](https://wordpress.org/support/article/overview-of-wordpress/)
+- Overview of WordPress ([deleted](https://wordpress.org/support/article/overview-of-wordpress/), web.archive.org: [17.01.2023](https://web.archive.org/web/20230117010343/https://wordpress.org/support/article/overview-of-wordpress/))
 - [Requirements](https://wordpress.org/about/requirements/)
 - [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - [WordPress.org and WordPress.com](https://wordpress.org/support/article/wordpress-org-and-wordpress-com/)
