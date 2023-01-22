@@ -106,8 +106,8 @@ The category contains 27 articles, which I have divided into two sections.
 - [Installing WordPress on your own Computer](https://wordpress.org/documentation/article/installing-wordpress-on-your-own-computer/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/ -->
 - [How to install WordPress](https://wordpress.org/documentation/article/how-to-install-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/how-to-install-wordpress/ -->
 - [Creating Database for WordPress](https://wordpress.org/documentation/article/creating-database-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-database-for-wordpress/ -->
-- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
-- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
+- [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
+- [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
