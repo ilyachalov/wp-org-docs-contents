@@ -96,7 +96,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Dimension Settings Overview](https://wordpress.org/documentation/article/dimension-controls-overview/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/dimension-controls-overview/ -->
 - [Block Directory](https://wordpress.org/documentation/article/block-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-directory/ -->
 - [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
-- [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
+- [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/) <!-- 17.01.2023: https://wordpress.org/support/article/wordpress-widgets/ -->
 - [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Update Services](https://wordpress.org/support/article/update-services/)
