@@ -160,8 +160,8 @@ The category contains 11 articles.
 - [Why should I use HTTPS](https://wordpress.org/documentation/article/why-should-i-use-https/) <!-- до 17.01.2023: https://wordpress.org/support/article/why-should-i-use-https/ -->
 - [HTTPS for WordPress](https://wordpress.org/documentation/article/https-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/https-for-wordpress/ -->
 - [Introduction to Plugins](https://wordpress.org/documentation/article/introduction-to-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins/ -->
-- [Cookies](https://wordpress.org/support/article/cookies/)
-- [Appearance Customize Screen](https://wordpress.org/support/article/appearance-customize-screen/) (for not block themes)
+- [Cookies](https://wordpress.org/documentation/article/cookies/) <!-- до 17.01.2023: https://wordpress.org/support/article/cookies/ -->
+- [Appearance Customize Screen, Customizer](https://wordpress.org/documentation/article/customizer/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-customize-screen/ -->
 - [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
 - [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
