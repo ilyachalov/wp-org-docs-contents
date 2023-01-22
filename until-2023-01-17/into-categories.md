@@ -98,8 +98,8 @@ The category contains 27 articles, which I have divided into two sections.
 
 - [Features](https://wordpress.org/about/features/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-features/ --> (_wordpress.org/about/_)
 - [Hosting WordPress](https://wordpress.org/documentation/article/hosting-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/hosting-wordpress/ -->
-- [Installing WordPress at popular Hosting Companies](https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/)
-- [Before You Install](https://wordpress.org/support/article/before-you-install/)
+- [Installing WordPress at popular Hosting Companies](https://wordpress.org/documentation/article/installing-wordpress-at-popular-hosting-companies/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/ -->
+- [Before You Install](https://wordpress.org/documentation/article/before-you-install/) <!-- до 17.01.2023: https://wordpress.org/support/article/before-you-install/ -->
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Automated Installation](https://wordpress.org/support/article/automated-installation/)
