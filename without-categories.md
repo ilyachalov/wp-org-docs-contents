@@ -46,7 +46,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Introduction to Plugins](https://wordpress.org/documentation/article/introduction-to-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins/ -->
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
 - [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
-- [List View](https://wordpress.org/support/article/list-view/) (block editor)
+- [List View](https://wordpress.org/documentation/article/list-view/) (block editor) <!-- https://wordpress.org/support/article/list-view/ -->
 - [Blocks](https://wordpress.org/support/article/blocks/)
 - [Pages](https://wordpress.org/support/article/pages/)
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
