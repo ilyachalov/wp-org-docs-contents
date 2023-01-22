@@ -15,7 +15,7 @@ This list only lists articles included in the support documentation _categories_
 - [Use automated installation](https://wordpress.org/documentation/article/use-automated-installation/) <!-- до 17.01.2023: https://wordpress.org/support/article/automated-installation/ -->
 - [FTP Clients](https://wordpress.org/documentation/article/ftp-clients/) <!-- до 17.01.2023: https://wordpress.org/support/article/ftp-clients/ -->
 - [Using FileZilla](https://wordpress.org/documentation/article/using-filezilla/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-filezilla/ -->
-- [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
+- [Installing WordPress in your language](https://wordpress.org/documentation/article/installing-wordpress-in-your-language/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-in-your-language/ -->
 - [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
