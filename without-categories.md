@@ -1,4 +1,4 @@
-[WordPress.org Support Documentation](https://wordpress.org/support/)
+[WordPress.org Support Documentation](https://wordpress.org/documentation/) (now `wordpress.org/documentation`, until 17.01.2023: `wordpress.org/support`)
 
 This list only lists articles included in the support documentation _categories_ on the 'WordPress.org' website. Website 'WordPress.org' contains many more articles that are not included in the categories of support documentation. Links to articles not listed here are available from within the articles listed here.
 
