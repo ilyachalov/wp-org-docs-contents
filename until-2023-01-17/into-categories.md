@@ -139,8 +139,8 @@ The category contains 18 articles.
 - [Blocks list](https://wordpress.org/documentation/article/blocks-list/) <!-- до 17.01.2023: https://wordpress.org/support/article/blocks/ -->
 - [Block Directory](https://wordpress.org/documentation/article/block-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-directory/ -->
 - [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
-- [List View](https://wordpress.org/support/article/list-view/) (block editor)
-- [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
+- [List View](https://wordpress.org/documentation/article/list-view/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/list-view/ -->
+- [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
 - [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
