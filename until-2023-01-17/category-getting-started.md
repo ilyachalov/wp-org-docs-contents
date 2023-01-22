@@ -28,7 +28,7 @@ The category contains 59 articles, which I have divided into the following secti
 - [Installing Multiple WordPress Instances](https://wordpress.org/documentation/article/installing-multiple-blogs/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-multiple-blogs/ -->
 - [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
 - [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
-- [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
+- [FAQ Installation](https://wordpress.org/documentation/article/faq-installation/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-installation/ -->
 
 ## At the beginning and during work
 
