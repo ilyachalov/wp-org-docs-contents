@@ -19,7 +19,7 @@ This list only lists articles included in the support documentation _categories_
 - [Installing WordPress on your own Computer](https://wordpress.org/documentation/article/installing-wordpress-on-your-own-computer/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/ -->
 - [How to install WordPress](https://wordpress.org/documentation/article/how-to-install-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/how-to-install-wordpress/ -->
 - [Creating Database for WordPress](https://wordpress.org/documentation/article/creating-database-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-database-for-wordpress/ -->
-- [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
+- [Editing wp-config.php](https://wordpress.org/documentation/article/editing-wp-config-php/) <!-- до 17.01.2023: https://wordpress.org/support/article/editing-wp-config-php/ -->
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [htaccess](https://wordpress.org/support/article/htaccess/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
