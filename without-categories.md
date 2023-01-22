@@ -12,7 +12,7 @@ This list only lists articles included in the support documentation _categories_
 - [WordPress.org and WordPress.com](https://wordpress.org/documentation/article/wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-org-and-wordpress-com/ -->
 - [Hosting WordPress](https://wordpress.org/documentation/article/hosting-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/hosting-wordpress/ -->
 - [Installing WordPress at popular Hosting Companies](https://wordpress.org/documentation/article/installing-wordpress-at-popular-hosting-companies/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-at-popular-hosting-companies/ -->
-- [Automated Installation](https://wordpress.org/support/article/automated-installation/)
+- [Use automated installation](https://wordpress.org/documentation/article/use-automated-installation/) <!-- до 17.01.2023: https://wordpress.org/support/article/automated-installation/ -->
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
