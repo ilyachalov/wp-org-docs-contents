@@ -29,7 +29,7 @@ This list only lists articles included in the support documentation _categories_
 - [Configuring Wildcard Subdomains](https://wordpress.org/documentation/article/configuring-wildcard-subdomains/) <!-- до 17.01.2023: https://wordpress.org/support/article/configuring-wildcard-subdomains/ -->
 - [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
 - [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
-- [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
+- [FAQ Installation](https://wordpress.org/documentation/article/faq-installation/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-installation/ -->
 
 # At the beginning and during work
 
