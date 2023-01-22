@@ -75,11 +75,11 @@ The category contains 59 articles, which I have divided into the following secti
 - [Post Formats](https://wordpress.org/documentation/article/post-formats/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-formats/ -->
 - [Update Services](https://wordpress.org/documentation/article/update-services/) <!-- до 17.01.2023: https://wordpress.org/support/article/update-services/ -->
 - [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- до 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
-- [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- до 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
 
 #### Maintenance
 
-- [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
+- [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
