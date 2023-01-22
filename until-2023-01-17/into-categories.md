@@ -32,22 +32,22 @@ The category contains 59 articles, which I have divided into the following secti
 
 ## At the beginning and during work
 
-- [Introduction to Blogging](https://wordpress.org/support/article/introduction-to-blogging/)
-- [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
-- [Administration Screens](https://wordpress.org/support/article/administration-screens/)
-- [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
-- [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
-- [Administering Your Blog](https://wordpress.org/support/article/administering-your-blog/)
-- [Using Themes](https://wordpress.org/support/article/using-themes/)
-- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
-- [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
-- [Pages](https://wordpress.org/support/article/pages/)
-- [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
-- [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
-- [Content Visibility](https://wordpress.org/support/article/content-visibility/)
-- [Taxonomies](https://wordpress.org/support/article/taxonomies/)
-- [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
-- [Glossary](https://wordpress.org/support/article/glossary/)
+- [Introduction to Blogging](https://wordpress.org/documentation/article/introduction-to-blogging/) <!-- до 17.01.2023: https://wordpress.org/support/article/introduction-to-blogging/ -->
+- [Password Best Practices](https://wordpress.org/documentation/article/password-best-practices/) <!-- до 17.01.2023: https://wordpress.org/support/article/password-best-practices/ -->
+- [Administration Screens](https://wordpress.org/documentation/article/administration-screens/) <!-- до 17.01.2023: https://wordpress.org/support/article/administration-screens/ -->
+- [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-classic/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress-classic/ -->
+- [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-block-editor/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress/ -->
+- [Administering Your Blog](https://wordpress.org/documentation/article/administer-your-blog/) <!-- до 17.01.2023: https://wordpress.org/support/article/administering-your-blog/ -->
+- [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)<!-- до 17.01.2023: https://wordpress.org/support/article/using-themes/ -->
+- [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
+- [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
+- [Create pages](https://wordpress.org/documentation/article/create-pages/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages/ -->
+- [Comments in WordPress](https://wordpress.org/documentation/article/comments-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/comments-in-wordpress/ -->
+- [Write Posts](https://wordpress.org/documentation/article/write-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/writing-posts/ -->
+- [Set blog content visibility](https://wordpress.org/documentation/article/content-visibility-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/content-visibility/ -->
+- [Taxonomies](https://wordpress.org/documentation/article/taxonomies/) <!-- до 17.01.2023: https://wordpress.org/support/article/taxonomies/ -->
+- [Roles and Capabilities](https://wordpress.org/documentation/article/roles-and-capabilities/) <!-- до 17.01.2023: https://wordpress.org/support/article/roles-and-capabilities/ -->
+- [WordPress Glossary](https://wordpress.org/documentation/article/wordpress-glossary/) <!-- до 17.01.2023: https://wordpress.org/support/article/glossary/ -->
 
 #### Main menu (administration) screens
 
