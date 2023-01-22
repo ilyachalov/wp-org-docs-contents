@@ -22,7 +22,7 @@ This list only lists articles included in the support documentation _categories_
 - [Editing wp-config.php](https://wordpress.org/documentation/article/editing-wp-config-php/) <!-- до 17.01.2023: https://wordpress.org/support/article/editing-wp-config-php/ -->
 - [Nginx](https://wordpress.org/documentation/article/nginx/) <!-- до 17.01.2023: https://wordpress.org/support/article/nginx/ -->
 - [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
-- [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
+- [Giving WordPress Its Own Directory](https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/giving-wordpress-its-own-directory/ -->
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
