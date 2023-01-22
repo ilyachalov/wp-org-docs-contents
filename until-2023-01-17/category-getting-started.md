@@ -73,8 +73,8 @@ The category contains 59 articles, which I have divided into the following secti
 - [Use keyboard shortcuts](https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/keyboard-shortcuts/ -->
 - [Assign custom fields](https://wordpress.org/documentation/article/assign-custom-fields/) <!-- до 17.01.2023: https://wordpress.org/support/article/custom-fields/ -->
 - [Post Formats](https://wordpress.org/documentation/article/post-formats/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-formats/ -->
-- [Update Services](https://wordpress.org/support/article/update-services/)
-- [Importing Content](https://wordpress.org/support/article/importing-content/)
+- [Update Services](https://wordpress.org/documentation/article/update-services/) <!-- до 17.01.2023: https://wordpress.org/support/article/update-services/ -->
+- [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- до 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 
 #### Maintenance
