@@ -76,7 +76,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Settings General Screen](https://wordpress.org/documentation/article/settings-general-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-general-screen/ -->
 - [Settings Writing Screen](https://wordpress.org/documentation/article/settings-writing-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-writing-screen/ -->
 - [Settings Reading Screen](https://wordpress.org/documentation/article/settings-reading-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-reading-screen/ -->
-- [Settings Discussion Screen](https://wordpress.org/support/article/settings-discussion-screen/)
+- [Settings Discussion Screen](https://wordpress.org/documentation/article/settings-discussion-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-discussion-screen/ -->
 - [Settings Media Screen](https://wordpress.org/support/article/settings-media-screen/)
 - [Settings Permalinks Screen](https://wordpress.org/support/article/settings-permalinks-screen/)
 
