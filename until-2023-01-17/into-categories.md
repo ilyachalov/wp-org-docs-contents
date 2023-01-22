@@ -143,9 +143,9 @@ The category contains 18 articles.
 - [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
 - [Block-based Widgets Editor](https://wordpress.org/documentation/article/block-based-widgets-editor/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-based-widgets-editor/ -->
 - [Customize permalinks](https://wordpress.org/documentation/article/customize-permalinks/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-permalinks/ -->
-- [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
-- [Media library screen](https://wordpress.org/support/article/media-library-screen/)
-- [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
+- [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/dashboard-screen/ -->
+- [Media library screen](https://wordpress.org/documentation/article/media-library-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/media-library-screen/ -->
+- [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/users-your-profile-screen/ -->
 - [Finding WordPress Help](https://wordpress.org/support/article/finding-wordpress-help/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
 - [History](https://wordpress.org/support/article/history/)
