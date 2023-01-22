@@ -21,7 +21,7 @@ The category contains 59 articles, which I have divided into the following secti
 - [Requirements](https://wordpress.org/about/requirements/) (_wordpress.org/about/_)
 - [Get started with WordPress](https://wordpress.org/documentation/article/get-started-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/new-to-wordpress-where-to-start/ -->
 - [WordPress.org and WordPress.com](https://wordpress.org/documentation/article/wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-org-and-wordpress-com/ -->
-- [Hosting WordPress](https://wordpress.org/support/article/hosting-wordpress/)
+- [Hosting WordPress](https://wordpress.org/documentation/article/hosting-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/hosting-wordpress/ -->
 - [FTP Clients](https://wordpress.org/support/article/ftp-clients/)
 - [Using FileZilla](https://wordpress.org/support/article/using-filezilla/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
