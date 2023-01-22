@@ -102,8 +102,8 @@ The category contains 27 articles, which I have divided into two sections.
 - [Before You Install](https://wordpress.org/documentation/article/before-you-install/) <!-- до 17.01.2023: https://wordpress.org/support/article/before-you-install/ -->
 - [Using FileZilla](https://wordpress.org/documentation/article/using-filezilla/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-filezilla/ -->
 - [Nginx](https://wordpress.org/documentation/article/nginx/) <!-- до 17.01.2023: https://wordpress.org/support/article/nginx/ -->
-- [Automated Installation](https://wordpress.org/support/article/automated-installation/)
-- [Installing WordPress on your own Computer](https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/)
+- [Use automated installation](https://wordpress.org/documentation/article/use-automated-installation/) <!-- до 17.01.2023: https://wordpress.org/support/article/automated-installation/ -->
+- [Installing WordPress on your own Computer](https://wordpress.org/documentation/article/installing-wordpress-on-your-own-computer/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/ -->
 - [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
 - [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
