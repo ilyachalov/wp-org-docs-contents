@@ -116,7 +116,7 @@ Not all articles about administration screens are listed here. On each administr
 - [HTTPS for WordPress](https://wordpress.org/documentation/article/https-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/https-for-wordpress/ -->
 - [WordPress Backups](https://wordpress.org/documentation/article/wordpress-backups/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-backups/ -->
 - [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
-- [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
+- [Backing Up Your Database](https://wordpress.org/documentation/article/backing-up-your-database/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-database/ -->
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
