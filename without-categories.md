@@ -24,7 +24,7 @@ This list only lists articles included in the support documentation _categories_
 - [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
 - [Giving WordPress Its Own Directory](https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/giving-wordpress-its-own-directory/ -->
 - [Installing Multiple WordPress Instances](https://wordpress.org/documentation/article/installing-multiple-blogs/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-multiple-blogs/ -->
-- [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
+- [Before You Create A Network](https://wordpress.org/documentation/article/before-you-create-a-network/) <!-- до 17.01.2023: https://wordpress.org/support/article/before-you-create-a-network/ -->
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Configuring Wildcard Subdomains](https://wordpress.org/support/article/configuring-wildcard-subdomains/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
