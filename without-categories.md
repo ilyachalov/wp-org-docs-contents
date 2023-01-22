@@ -57,7 +57,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Roles and Capabilities](https://wordpress.org/documentation/article/roles-and-capabilities/) <!-- до 17.01.2023: https://wordpress.org/support/article/roles-and-capabilities/ -->
 - [Customize permalinks](https://wordpress.org/documentation/article/customize-permalinks/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-permalinks/ -->
 - [Where to find WordPress help](https://wordpress.org/documentation/article/where-to-find-wordpress-help/) <!-- до 17.01.2023: https://wordpress.org/support/article/finding-wordpress-help/ -->
-- [Glossary](https://wordpress.org/support/article/glossary/)
+- [WordPress Glossary](https://wordpress.org/documentation/article/wordpress-glossary/) <!-- до 17.01.2023: https://wordpress.org/support/article/glossary/ -->
 
 ## Main menu (administration) screens
 
