@@ -104,8 +104,8 @@ Not all articles about administration screens are listed here. On each administr
 - [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
 - [Multilingual WordPress](https://wordpress.org/documentation/article/multilingual-wordpress/) <!-- 17.01.2023: https://wordpress.org/support/article/multilingual-wordpress/ -->
 - [Search Engine Optimization](https://wordpress.org/documentation/article/search-engine-optimization/) (SEO) <!-- 17.01.2023: https://wordpress.org/support/article/search-engine-optimization/ -->
-- [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/) <!-- https://wordpress.org/support/article/faq-working-with-wordpress/ -->
-- [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
+- [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/) <!-- 17.01.2023: https://wordpress.org/support/article/faq-working-with-wordpress/ -->
+- [Become a WordPress contributor](https://wordpress.org/documentation/article/become-a-wordpress-contributor/) <!-- 17.01.2023: https://wordpress.org/support/article/contributing-to-wordpress/ -->
 - [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 - [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [History](https://wordpress.org/support/article/history/)
