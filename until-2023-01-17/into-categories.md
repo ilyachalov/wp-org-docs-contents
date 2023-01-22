@@ -117,8 +117,8 @@ The category contains 27 articles, which I have divided into two sections.
 
 ## After installation
 
-- [Login Trouble](https://wordpress.org/support/article/login-trouble/)
-- [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
+- [Troubleshoot login issues](https://wordpress.org/documentation/article/troubleshoot-login-issues/) <!-- до 17.01.2023: https://wordpress.org/support/article/login-trouble/ -->
+- [Test driving WordPress](https://wordpress.org/documentation/article/test-driving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/test-driving-wordpress/ -->
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Update Services](https://wordpress.org/support/article/update-services/)
