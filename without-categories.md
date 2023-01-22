@@ -118,7 +118,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
 - [Backing Up Your Database](https://wordpress.org/documentation/article/backing-up-your-database/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-database/ -->
 - [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
-- [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
+- [Test driving WordPress](https://wordpress.org/documentation/article/test-driving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/test-driving-wordpress/ -->
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
 - [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
