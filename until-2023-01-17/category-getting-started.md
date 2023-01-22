@@ -41,7 +41,7 @@ The category contains 59 articles, which I have divided into the following secti
 - [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)<!-- до 17.01.2023: https://wordpress.org/support/article/using-themes/ -->
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
 - [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
-- [Pages](https://wordpress.org/support/article/pages/)
+- [Create pages](https://wordpress.org/documentation/article/create-pages/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages/ -->
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
