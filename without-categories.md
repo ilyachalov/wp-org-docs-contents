@@ -36,7 +36,7 @@ This list only lists articles included in the support documentation _categories_
 The articles in this section are suggested to be read first to start filling your site with content. If you didn't find something in this section, try searching in the 'Advanced' section.
 
 - [Introduction to Blogging](https://wordpress.org/documentation/article/introduction-to-blogging/) <!-- до 17.01.2023: https://wordpress.org/support/article/introduction-to-blogging/ -->
-- [Password Best Practices](https://wordpress.org/support/article/password-best-practices/)
+- [Password Best Practices](https://wordpress.org/documentation/article/password-best-practices/) <!-- до 17.01.2023: https://wordpress.org/support/article/password-best-practices/ -->
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [Administration Screens](https://wordpress.org/support/article/administration-screens/)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
