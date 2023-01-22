@@ -45,7 +45,7 @@ The category contains 59 articles, which I have divided into the following secti
 - [Comments in WordPress](https://wordpress.org/documentation/article/comments-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/comments-in-wordpress/ -->
 - [Write Posts](https://wordpress.org/documentation/article/write-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/writing-posts/ -->
 - [Set blog content visibility](https://wordpress.org/documentation/article/content-visibility-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/content-visibility/ -->
-- [Taxonomies](https://wordpress.org/support/article/taxonomies/)
+- [Taxonomies](https://wordpress.org/documentation/article/taxonomies/) <!-- до 17.01.2023: https://wordpress.org/support/article/taxonomies/ -->
 - [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
 - [Glossary](https://wordpress.org/support/article/glossary/)
 
