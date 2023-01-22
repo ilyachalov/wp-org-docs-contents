@@ -83,7 +83,7 @@ Not all articles about administration screens are listed here. On each administr
 # Advanced
 
 - [What are smilies?](https://wordpress.org/documentation/article/what-are-smilies/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-smilies/ -->
-- [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
+- [Audio Shortcode](https://wordpress.org/documentation/article/audio-shortcode/) <!-- до 17.01.2023: https://wordpress.org/support/article/audio-shortcode/ -->
 - [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
 - [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
