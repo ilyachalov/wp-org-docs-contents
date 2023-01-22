@@ -50,7 +50,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Blocks list](https://wordpress.org/documentation/article/blocks-list/) <!-- до 17.01.2023: https://wordpress.org/support/article/blocks/ -->
 - [Create pages](https://wordpress.org/documentation/article/create-pages/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages/ -->
 - [Comments in WordPress](https://wordpress.org/documentation/article/comments-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/comments-in-wordpress/ -->
-- [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
+- [Write Posts](https://wordpress.org/documentation/article/write-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/writing-posts/ -->
 - [Post Status](https://wordpress.org/support/article/post-status/)
 - [Content Visibility](https://wordpress.org/support/article/content-visibility/)
 - [Taxonomies](https://wordpress.org/support/article/taxonomies/)
