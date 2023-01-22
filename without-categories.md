@@ -107,7 +107,7 @@ Not all articles about administration screens are listed here. On each administr
 - [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-working-with-wordpress/ -->
 - [Become a WordPress contributor](https://wordpress.org/documentation/article/become-a-wordpress-contributor/) <!-- до 17.01.2023: https://wordpress.org/support/article/contributing-to-wordpress/ -->
 - [What’s the difference between WordPress.org and WordPress.com?](https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-vs-wordpress-com/ -->
-- [Supported Versions](https://wordpress.org/support/article/supported-versions/)
+- [Supported Versions](https://wordpress.org/documentation/article/supported-versions/) <!-- до 17.01.2023: https://wordpress.org/support/article/supported-versions/ -->
 - [History](https://wordpress.org/support/article/history/)
 
 ## Maintenance
