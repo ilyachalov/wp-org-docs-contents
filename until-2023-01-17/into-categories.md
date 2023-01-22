@@ -141,8 +141,8 @@ The category contains 18 articles.
 - [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
 - [List View](https://wordpress.org/documentation/article/list-view/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/list-view/ -->
 - [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
-- [Block-based Widgets Editor](https://wordpress.org/support/article/block-based-widgets-editor/)
-- [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
+- [Block-based Widgets Editor](https://wordpress.org/documentation/article/block-based-widgets-editor/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-based-widgets-editor/ -->
+- [Customize permalinks](https://wordpress.org/documentation/article/customize-permalinks/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-permalinks/ -->
 - [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
 - [Media library screen](https://wordpress.org/support/article/media-library-screen/)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
