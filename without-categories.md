@@ -45,7 +45,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)<!-- до 17.01.2023: https://wordpress.org/support/article/using-themes/ -->
 - [Introduction to Plugins](https://wordpress.org/documentation/article/introduction-to-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins/ -->
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
-- [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
+- [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
 - [List View](https://wordpress.org/support/article/list-view/) (block editor)
 - [Blocks](https://wordpress.org/support/article/blocks/)
 - [Pages](https://wordpress.org/support/article/pages/)
