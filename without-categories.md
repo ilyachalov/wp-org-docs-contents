@@ -113,7 +113,7 @@ Not all articles about administration screens are listed here. On each administr
 ## Maintenance
 
 - [Why should I use HTTPS](https://wordpress.org/documentation/article/why-should-i-use-https/) <!-- до 17.01.2023: https://wordpress.org/support/article/why-should-i-use-https/ -->
-- [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
+- [HTTPS for WordPress](https://wordpress.org/documentation/article/https-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/https-for-wordpress/ -->
 - [WordPress Backups](https://wordpress.org/support/article/wordpress-backups/)
 - [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
 - [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
