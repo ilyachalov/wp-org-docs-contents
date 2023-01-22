@@ -104,8 +104,8 @@ The category contains 27 articles, which I have divided into two sections.
 - [Nginx](https://wordpress.org/documentation/article/nginx/) <!-- до 17.01.2023: https://wordpress.org/support/article/nginx/ -->
 - [Use automated installation](https://wordpress.org/documentation/article/use-automated-installation/) <!-- до 17.01.2023: https://wordpress.org/support/article/automated-installation/ -->
 - [Installing WordPress on your own Computer](https://wordpress.org/documentation/article/installing-wordpress-on-your-own-computer/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/ -->
-- [How to install WordPress](https://wordpress.org/support/article/how-to-install-wordpress/)
-- [Creating Database for WordPress](https://wordpress.org/support/article/creating-database-for-wordpress/)
+- [How to install WordPress](https://wordpress.org/documentation/article/how-to-install-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/how-to-install-wordpress/ -->
+- [Creating Database for WordPress](https://wordpress.org/documentation/article/creating-database-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-database-for-wordpress/ -->
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Giving WordPress Its Own Directory](https://wordpress.org/support/article/giving-wordpress-its-own-directory/)
