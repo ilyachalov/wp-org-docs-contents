@@ -82,8 +82,8 @@ The category contains 59 articles, which I have divided into the following secti
 - [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
 - [Backing Up Your Database](https://wordpress.org/documentation/article/backing-up-your-database/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-database/ -->
 - [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
-- [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
-- [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
+- [Updating WordPress](https://wordpress.org/documentation/article/updating-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/updating-wordpress/ -->
+- [Upgrading WordPress – Extended Instructions](https://wordpress.org/documentation/article/upgrading-wordpress-extended-instructions/) <!-- до 17.01.2023: https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/ -->
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 
 #### Default theme descriptions
