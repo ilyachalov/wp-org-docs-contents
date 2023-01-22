@@ -95,18 +95,18 @@ Not all articles about administration screens are listed here. On each administr
 - [Post Formats](https://wordpress.org/documentation/article/post-formats/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-formats/ -->
 - [Dimension Settings Overview](https://wordpress.org/documentation/article/dimension-controls-overview/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/dimension-controls-overview/ -->
 - [Block Directory](https://wordpress.org/documentation/article/block-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-directory/ -->
-- [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
-- [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/) <!-- 17.01.2023: https://wordpress.org/support/article/wordpress-widgets/ -->
-- [Block-based Widgets Editor](https://wordpress.org/documentation/article/block-based-widgets-editor/) <!-- 17.01.2023: https://wordpress.org/support/article/block-based-widgets-editor/ -->
-- [Template Editor](https://wordpress.org/documentation/article/template-editor/) (for block themes) <!-- 17.01.2023: https://wordpress.org/support/article/template-editor/ -->
-- [Update Services](https://wordpress.org/documentation/article/update-services/) <!-- 17.01.2023: https://wordpress.org/support/article/update-services/ -->
-- [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
-- [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
-- [Multilingual WordPress](https://wordpress.org/documentation/article/multilingual-wordpress/) <!-- 17.01.2023: https://wordpress.org/support/article/multilingual-wordpress/ -->
-- [Search Engine Optimization](https://wordpress.org/documentation/article/search-engine-optimization/) (SEO) <!-- 17.01.2023: https://wordpress.org/support/article/search-engine-optimization/ -->
-- [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/) <!-- 17.01.2023: https://wordpress.org/support/article/faq-working-with-wordpress/ -->
-- [Become a WordPress contributor](https://wordpress.org/documentation/article/become-a-wordpress-contributor/) <!-- 17.01.2023: https://wordpress.org/support/article/contributing-to-wordpress/ -->
-- [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
+- [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
+- [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-widgets/ -->
+- [Block-based Widgets Editor](https://wordpress.org/documentation/article/block-based-widgets-editor/) <!-- до 17.01.2023: https://wordpress.org/support/article/block-based-widgets-editor/ -->
+- [Template Editor](https://wordpress.org/documentation/article/template-editor/) (for block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/template-editor/ -->
+- [Update Services](https://wordpress.org/documentation/article/update-services/) <!-- до 17.01.2023: https://wordpress.org/support/article/update-services/ -->
+- [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- до 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
+- [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- до 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
+- [Multilingual WordPress](https://wordpress.org/documentation/article/multilingual-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/multilingual-wordpress/ -->
+- [Search Engine Optimization](https://wordpress.org/documentation/article/search-engine-optimization/) (SEO) <!-- до 17.01.2023: https://wordpress.org/support/article/search-engine-optimization/ -->
+- [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-working-with-wordpress/ -->
+- [Become a WordPress contributor](https://wordpress.org/documentation/article/become-a-wordpress-contributor/) <!-- до 17.01.2023: https://wordpress.org/support/article/contributing-to-wordpress/ -->
+- [What’s the difference between WordPress.org and WordPress.com?](https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-vs-wordpress-com/ -->
 - [Supported Versions](https://wordpress.org/support/article/supported-versions/)
 - [History](https://wordpress.org/support/article/history/)
 
