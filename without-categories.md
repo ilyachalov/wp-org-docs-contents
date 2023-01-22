@@ -140,7 +140,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Brute Force Attacks](https://wordpress.org/documentation/article/brute-force-attacks/) <!-- до 17.01.2023: https://wordpress.org/support/article/brute-force-attacks/ -->
 - [WordPress Privacy](https://wordpress.org/documentation/article/wordpress-privacy/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-privacy/ -->
 - [Administration Over SSL](https://wordpress.org/documentation/article/administration-over-ssl/) <!-- https://wordpress.org/support/article/administration-over-ssl/ -->
-- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
+- [Two Step Authentication](https://wordpress.org/documentation/article/two-step-authentication/) <!-- https://wordpress.org/support/article/two-step-authentication/ -->
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 
 ## Default theme descriptions
