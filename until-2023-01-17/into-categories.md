@@ -156,8 +156,8 @@ The category contains 11 articles.
 
 - [Administration Screens](https://wordpress.org/documentation/article/administration-screens/) <!-- до 17.01.2023: https://wordpress.org/support/article/administration-screens/ -->
 - [Plugin and themes auto-updates](https://wordpress.org/documentation/article/plugins-themes-auto-updates/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins-themes-auto-updates/ -->
-- [Roles and Capabilities](https://wordpress.org/support/article/roles-and-capabilities/)
-- [Why should I use HTTPS](https://wordpress.org/support/article/why-should-i-use-https/)
+- [Roles and Capabilities](https://wordpress.org/documentation/article/roles-and-capabilities/) <!-- до 17.01.2023: https://wordpress.org/support/article/roles-and-capabilities/ -->
+- [Why should I use HTTPS](https://wordpress.org/documentation/article/why-should-i-use-https/) <!-- до 17.01.2023: https://wordpress.org/support/article/why-should-i-use-https/ -->
 - [HTTPS for WordPress](https://wordpress.org/support/article/https-for-wordpress/)
 - [Plugins](https://wordpress.org/support/article/plugins/)
 - [Cookies](https://wordpress.org/support/article/cookies/)
