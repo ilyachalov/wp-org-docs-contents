@@ -59,8 +59,8 @@ The category contains 59 articles, which I have divided into the following secti
 - [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-menus-screen/ -->
 - [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/users-your-profile-screen/ -->
 - [Settings General Screen](https://wordpress.org/documentation/article/settings-general-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-general-screen/ -->
-- [Settings Writing Screen](https://wordpress.org/support/article/settings-writing-screen/)
-- [Settings Reading Screen](https://wordpress.org/support/article/settings-reading-screen/)
+- [Settings Writing Screen](https://wordpress.org/documentation/article/settings-writing-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-writing-screen/ -->
+- [Settings Reading Screen](https://wordpress.org/documentation/article/settings-reading-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-reading-screen/ -->
 - [Settings Discussion Screen](https://wordpress.org/support/article/settings-discussion-screen/)
 - [Settings Media Screen](https://wordpress.org/support/article/settings-media-screen/)
 - [Settings Permalinks Screen](https://wordpress.org/support/article/settings-permalinks-screen/)
