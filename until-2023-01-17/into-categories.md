@@ -67,15 +67,15 @@ The category contains 59 articles, which I have divided into the following secti
 
 ## Advanced
 
-- [Using Smilies](https://wordpress.org/support/article/using-smilies/)
-- [Creating a Static Front Page](https://wordpress.org/support/article/creating-a-static-front-page/)
-- [Creating a Search Page](https://wordpress.org/support/article/creating-a-search-page/)
-- [Keyboard Shortcuts](https://wordpress.org/support/article/keyboard-shortcuts/) (classic editor)
-- [Custom Fields](https://wordpress.org/support/article/custom-fields/)
-- [Post Formats](https://wordpress.org/support/article/post-formats/)
-- [Update Services](https://wordpress.org/support/article/update-services/)
-- [Importing Content](https://wordpress.org/support/article/importing-content/)
-- [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [What are smilies?](https://wordpress.org/documentation/article/what-are-smilies/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-smilies/ -->
+- [Create a static front page](https://wordpress.org/documentation/article/create-a-static-front-page/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-a-static-front-page/ -->
+- [Create a Search Page](https://wordpress.org/documentation/article/create-a-search-page/) <!-- до 17.01.2023: https://wordpress.org/support/article/creating-a-search-page/ -->
+- [Use keyboard shortcuts](https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/keyboard-shortcuts/ -->
+- [Assign custom fields](https://wordpress.org/documentation/article/assign-custom-fields/) <!-- до 17.01.2023: https://wordpress.org/support/article/custom-fields/ -->
+- [Post Formats](https://wordpress.org/documentation/article/post-formats/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-formats/ -->
+- [Update Services](https://wordpress.org/documentation/article/update-services/) <!-- до 17.01.2023: https://wordpress.org/support/article/update-services/ -->
+- [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- до 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
+- [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- до 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
 
 #### Maintenance
 
