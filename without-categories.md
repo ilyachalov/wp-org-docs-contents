@@ -128,7 +128,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Updating WordPress](https://wordpress.org/documentation/article/updating-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/updating-wordpress/ -->
 - [Upgrading WordPress – Extended Instructions](https://wordpress.org/documentation/article/upgrading-wordpress-extended-instructions/) <!-- до 17.01.2023: https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/ -->
 - [Configuring Automatic Background Updates](https://wordpress.org/documentation/article/configuring-automatic-background-updates/) <!-- до 17.01.2023: https://wordpress.org/support/article/configuring-automatic-background-updates/ -->
-- [Optimization](https://wordpress.org/support/article/optimization/)
+- [Optimization](https://wordpress.org/documentation/article/optimization/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization/ -->
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
