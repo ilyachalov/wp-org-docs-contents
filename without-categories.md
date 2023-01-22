@@ -72,7 +72,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-menus-screen/ -->
 - [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/users-your-profile-screen/ -->
 - [Tools Export Screen](https://wordpress.org/documentation/article/tools-export-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/tools-export-screen/ -->
-- (Tools) [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
+- (Tools) [Site Health Screen](https://wordpress.org/documentation/article/site-health-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/site-health-screen/ -->
 - [Settings General Screen](https://wordpress.org/support/article/settings-general-screen/)
 - [Settings Writing Screen](https://wordpress.org/support/article/settings-writing-screen/)
 - [Settings Reading Screen](https://wordpress.org/support/article/settings-reading-screen/)
