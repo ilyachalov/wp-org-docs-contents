@@ -133,8 +133,8 @@ The category contains 18 articles.
 
 - [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-classic/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress-classic/ -->
 - [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-block-editor/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress/ -->
-- [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
-- [Pages](https://wordpress.org/support/article/pages/)
+- [Write Posts](https://wordpress.org/documentation/article/write-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/writing-posts/ -->
+- [Create pages](https://wordpress.org/documentation/article/create-pages/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages/ -->
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Blocks](https://wordpress.org/support/article/blocks/)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
