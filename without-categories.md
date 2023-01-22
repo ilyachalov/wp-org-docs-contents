@@ -48,7 +48,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-sidebar/ -->
 - [List View](https://wordpress.org/documentation/article/list-view/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/list-view/ -->
 - [Blocks list](https://wordpress.org/documentation/article/blocks-list/) <!-- до 17.01.2023: https://wordpress.org/support/article/blocks/ -->
-- [Pages](https://wordpress.org/support/article/pages/)
+- [Create pages](https://wordpress.org/documentation/article/create-pages/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages/ -->
 - [Comments in WordPress](https://wordpress.org/support/article/comments-in-wordpress/)
 - [Writing Posts](https://wordpress.org/support/article/writing-posts/) (classic editor)
 - [Post Status](https://wordpress.org/support/article/post-status/)
