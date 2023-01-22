@@ -102,7 +102,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Update Services](https://wordpress.org/documentation/article/update-services/) <!-- 17.01.2023: https://wordpress.org/support/article/update-services/ -->
 - [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
 - [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
-- [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
+- [Multilingual WordPress](https://wordpress.org/documentation/article/multilingual-wordpress/) <!-- 17.01.2023: https://wordpress.org/support/article/multilingual-wordpress/ -->
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 - [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
 - [Contributing to WordPress](https://wordpress.org/support/article/contributing-to-wordpress/)
