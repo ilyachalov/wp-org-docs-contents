@@ -92,7 +92,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Use keyboard shortcuts](https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/keyboard-shortcuts/ -->
 - [Assign custom fields](https://wordpress.org/documentation/article/assign-custom-fields/) <!-- до 17.01.2023: https://wordpress.org/support/article/custom-fields/ -->
 - [What is Post Type?](https://wordpress.org/documentation/article/what-is-post-type/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-types/ -->
-- [Post Formats](https://wordpress.org/support/article/post-formats/)
+- [Post Formats](https://wordpress.org/documentation/article/post-formats/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-formats/ -->
 - [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Block Directory](https://wordpress.org/support/article/block-directory/)
 - [Block Pattern Directory](https://wordpress.org/support/article/block-pattern-directory/)
