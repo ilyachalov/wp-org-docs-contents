@@ -51,19 +51,19 @@ The category contains 59 articles, which I have divided into the following secti
 
 #### Main menu (administration) screens
 
-- [Dashboard Screen](https://wordpress.org/support/article/dashboard-screen/)
-- [Posts Screen](https://wordpress.org/support/article/posts-screen/)
-- [Media library screen](https://wordpress.org/support/article/media-library-screen/)
-- [Pages Screen](https://wordpress.org/support/article/pages-screen/)
-- [Pages Add New Screen](https://wordpress.org/support/article/pages-add-new-screen/) (classic editor)
-- [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
-- [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
-- [Settings General Screen](https://wordpress.org/support/article/settings-general-screen/)
-- [Settings Writing Screen](https://wordpress.org/support/article/settings-writing-screen/)
-- [Settings Reading Screen](https://wordpress.org/support/article/settings-reading-screen/)
-- [Settings Discussion Screen](https://wordpress.org/support/article/settings-discussion-screen/)
-- [Settings Media Screen](https://wordpress.org/support/article/settings-media-screen/)
-- [Settings Permalinks Screen](https://wordpress.org/support/article/settings-permalinks-screen/)
+- [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/dashboard-screen/ -->
+- [Posts Screen](https://wordpress.org/documentation/article/posts-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/posts-screen/ -->
+- [Media library screen](https://wordpress.org/documentation/article/media-library-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/media-library-screen/ -->
+- [Pages Screen](https://wordpress.org/documentation/article/pages-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages-screen/ -->
+- [Pages Add New Screen](https://wordpress.org/documentation/article/pages-add-new-screen/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/pages-add-new-screen/ -->
+- [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-menus-screen/ -->
+- [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/users-your-profile-screen/ -->
+- [Settings General Screen](https://wordpress.org/documentation/article/settings-general-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-general-screen/ -->
+- [Settings Writing Screen](https://wordpress.org/documentation/article/settings-writing-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-writing-screen/ -->
+- [Settings Reading Screen](https://wordpress.org/documentation/article/settings-reading-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-reading-screen/ -->
+- [Settings Discussion Screen](https://wordpress.org/documentation/article/settings-discussion-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-discussion-screen/ -->
+- [Settings Media Screen](https://wordpress.org/documentation/article/settings-media-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-media-screen/ -->
+- [Settings Permalinks Screen](https://wordpress.org/documentation/article/settings-permalinks-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/settings-permalinks-screen/ -->
 
 ## Advanced
 
