@@ -53,8 +53,8 @@ The category contains 59 articles, which I have divided into the following secti
 
 - [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/dashboard-screen/ -->
 - [Posts Screen](https://wordpress.org/documentation/article/posts-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/posts-screen/ -->
-- [Media library screen](https://wordpress.org/support/article/media-library-screen/)
-- [Pages Screen](https://wordpress.org/support/article/pages-screen/)
+- [Media library screen](https://wordpress.org/documentation/article/media-library-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/media-library-screen/ -->
+- [Pages Screen](https://wordpress.org/documentation/article/pages-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/pages-screen/ -->
 - [Pages Add New Screen](https://wordpress.org/support/article/pages-add-new-screen/) (classic editor)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Users Your Profile Screen](https://wordpress.org/support/article/users-your-profile-screen/)
