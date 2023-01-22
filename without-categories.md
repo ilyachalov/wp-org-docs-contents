@@ -38,7 +38,7 @@ The articles in this section are suggested to be read first to start filling you
 - [Introduction to Blogging](https://wordpress.org/documentation/article/introduction-to-blogging/) <!-- до 17.01.2023: https://wordpress.org/support/article/introduction-to-blogging/ -->
 - [Password Best Practices](https://wordpress.org/documentation/article/password-best-practices/) <!-- до 17.01.2023: https://wordpress.org/support/article/password-best-practices/ -->
 - [Troubleshoot login issues](https://wordpress.org/documentation/article/troubleshoot-login-issues/) <!-- до 17.01.2023: https://wordpress.org/support/article/login-trouble/ -->
-- [Administration Screens](https://wordpress.org/support/article/administration-screens/)
+- [Administration Screens](https://wordpress.org/documentation/article/administration-screens/) <!-- https://wordpress.org/support/article/administration-screens/ -->
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress-classic/) (classic editor)
 - [First Steps with WordPress](https://wordpress.org/support/article/first-steps-with-wordpress/) (block editor)
 - [Administering Your Blog](https://wordpress.org/support/article/administering-your-blog/)
