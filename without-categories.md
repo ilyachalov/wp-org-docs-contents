@@ -28,7 +28,7 @@ This list only lists articles included in the support documentation _categories_
 - [Create A Network](https://wordpress.org/documentation/article/create-a-network/) <!-- до 17.01.2023: https://wordpress.org/support/article/create-a-network/ -->
 - [Configuring Wildcard Subdomains](https://wordpress.org/documentation/article/configuring-wildcard-subdomains/) <!-- до 17.01.2023: https://wordpress.org/support/article/configuring-wildcard-subdomains/ -->
 - [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
-- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
+- [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
 - [FAQ Installation](https://wordpress.org/support/article/faq-installation/)
 
 # At the beginning and during work
