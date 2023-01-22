@@ -132,7 +132,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Optimization – Caching](https://wordpress.org/documentation/article/optimization-caching/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization-caching/ -->
 - [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
 - [Changing The Site URL](https://wordpress.org/documentation/article/changing-the-site-url/) <!-- до 17.01.2023: https://wordpress.org/support/article/changing-the-site-url/ -->
-- [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
+- [Multisite Network Administration](https://wordpress.org/documentation/article/multisite-network-administration/) <!-- до 17.01.2023: https://wordpress.org/support/article/multisite-network-administration/ -->
 
 ## Security
 
