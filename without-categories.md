@@ -42,7 +42,7 @@ The articles in this section are suggested to be read first to start filling you
 - [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-classic/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress-classic/ -->
 - [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-block-editor/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/first-steps-with-wordpress/ -->
 - [Administering Your Blog](https://wordpress.org/documentation/article/administer-your-blog/) <!-- до 17.01.2023: https://wordpress.org/support/article/administering-your-blog/ -->
-- [Using Themes](https://wordpress.org/support/article/using-themes/)
+- [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)<!-- до 17.01.2023: https://wordpress.org/support/article/using-themes/ -->
 - [Plugins](https://wordpress.org/support/article/plugins/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Settings sidebar](https://wordpress.org/support/article/settings-sidebar/) (block editor)
