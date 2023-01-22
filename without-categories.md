@@ -126,7 +126,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Loopbacks](https://wordpress.org/documentation/article/loopbacks/) <!-- до 17.01.2023: https://wordpress.org/support/article/loopbacks/ -->
 - [Plugin and themes auto-updates](https://wordpress.org/documentation/article/plugins-themes-auto-updates/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins-themes-auto-updates/ -->
 - [Updating WordPress](https://wordpress.org/documentation/article/updating-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/updating-wordpress/ -->
-- [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
+- [Upgrading WordPress – Extended Instructions](https://wordpress.org/documentation/article/upgrading-wordpress-extended-instructions/) <!-- https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/ -->
 - [Configuring Automatic Background Updates](https://wordpress.org/support/article/configuring-automatic-background-updates/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
