@@ -79,18 +79,18 @@ The category contains 59 articles, which I have divided into the following secti
 
 #### Maintenance
 
-- [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
-- [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
-- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
-- [Updating WordPress](https://wordpress.org/support/article/updating-wordpress/)
-- [Upgrading WordPress – Extended Instructions](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/)
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
+- [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
+- [Backing Up Your Database](https://wordpress.org/documentation/article/backing-up-your-database/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-database/ -->
+- [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
+- [Updating WordPress](https://wordpress.org/documentation/article/updating-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/updating-wordpress/ -->
+- [Upgrading WordPress – Extended Instructions](https://wordpress.org/documentation/article/upgrading-wordpress-extended-instructions/) <!-- до 17.01.2023: https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/ -->
+- [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
 
 #### Default theme descriptions
 
-- [Twenty Fifteen](https://wordpress.org/support/article/twenty-fifteen/)
-- [Twenty Sixteen](https://wordpress.org/support/article/twenty-sixteen/)
-- [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
+- [Twenty Fifteen](https://wordpress.org/documentation/article/twenty-fifteen/) <!-- до 17.01.2023: https://wordpress.org/support/article/twenty-fifteen/ -->
+- [Twenty Sixteen](https://wordpress.org/documentation/article/twenty-sixteen/) <!-- до 17.01.2023: https://wordpress.org/support/article/twenty-sixteen/ -->
+- [Twenty Seventeen](https://wordpress.org/documentation/article/twenty-seventeen/) <!-- до 17.01.2023: https://wordpress.org/support/article/twenty-seventeen/ -->
 
 # Installing WordPress
 
