@@ -149,7 +149,7 @@ Not all articles about default themes are listed here. These default themes are 
 
 - [Twenty Fifteen](https://wordpress.org/documentation/article/twenty-fifteen/) <!-- до 17.01.2023: https://wordpress.org/support/article/twenty-fifteen/ -->
 - [Twenty Sixteen](https://wordpress.org/documentation/article/twenty-sixteen/) <!-- до 17.01.2023: https://wordpress.org/support/article/twenty-sixteen/ -->
-- [Twenty Seventeen](https://wordpress.org/support/article/twenty-seventeen/)
+- [Twenty Seventeen](https://wordpress.org/documentation/article/twenty-seventeen/) <!-- до 17.01.2023: https://wordpress.org/support/article/twenty-seventeen/ -->
 - [Twenty Nineteen](https://wordpress.org/support/article/twenty-nineteen/)
 - [Twenty Twenty](https://wordpress.org/support/article/twenty-twenty/)
 - [Twenty Twenty-One](https://wordpress.org/support/article/twenty-twenty-one/)
