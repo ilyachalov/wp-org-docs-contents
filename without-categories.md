@@ -98,7 +98,7 @@ Not all articles about administration screens are listed here. On each administr
 - [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/) <!-- 17.01.2023: https://wordpress.org/support/article/block-pattern-directory/ -->
 - [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/) <!-- 17.01.2023: https://wordpress.org/support/article/wordpress-widgets/ -->
 - [Block-based Widgets Editor](https://wordpress.org/documentation/article/block-based-widgets-editor/) <!-- 17.01.2023: https://wordpress.org/support/article/block-based-widgets-editor/ -->
-- [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
+- [Template Editor](https://wordpress.org/documentation/article/template-editor/) (for block themes) <!-- 17.01.2023: https://wordpress.org/support/article/template-editor/ -->
 - [Update Services](https://wordpress.org/support/article/update-services/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
