@@ -136,7 +136,7 @@ Not all articles about administration screens are listed here. On each administr
 
 ## Security
 
-- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
+- [Hardening WordPress](https://wordpress.org/documentation/article/hardening-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/hardening-wordpress/ -->
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [WordPress Privacy](https://wordpress.org/support/article/wordpress-privacy/)
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
