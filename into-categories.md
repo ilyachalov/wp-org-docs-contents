@@ -55,6 +55,13 @@ Need a hand installing WordPress? This section will help you.
 
 Keep your site updated and ready with the articles in this section.
 
+- [Administer Your Blog](https://wordpress.org/documentation/article/administer-your-blog/)
+- [Plugin and themes auto-updates](https://wordpress.org/documentation/article/plugins-themes-auto-updates/)
+- [Update Services](https://wordpress.org/documentation/article/update-services/)
+- [Updating WordPress](https://wordpress.org/documentation/article/updating-wordpress/)
+- [WordPress Housekeeping](https://wordpress.org/documentation/article/wordpress-housekeeping/)
+- [WordPress Site Maintenance](https://wordpress.org/documentation/article/wordpress-site-maintenance/)
+
 ## [Security](https://wordpress.org/documentation/category/security/)
 
 Everything you need to know to protect your site.
