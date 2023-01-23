@@ -170,8 +170,8 @@ The category contains 11 articles.
 
 The category contains 7 articles.
 
-- [Using Themes](https://wordpress.org/support/article/using-themes/)
-- [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
+- [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)<!-- до 17.01.2023: https://wordpress.org/support/article/using-themes/ -->
+- [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
 - [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
 - [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
