@@ -201,8 +201,8 @@ The category contains 10 articles.
 - [Supported Versions](https://wordpress.org/documentation/article/supported-versions/) <!-- до 17.01.2023: https://wordpress.org/support/article/supported-versions/ -->
 - [Why should I use HTTPS](https://wordpress.org/documentation/article/why-should-i-use-https/) <!-- до 17.01.2023: https://wordpress.org/support/article/why-should-i-use-https/ -->
 - [HTTPS for WordPress](https://wordpress.org/documentation/article/https-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/https-for-wordpress/ -->
-- [WordPress Privacy](https://wordpress.org/support/article/wordpress-privacy/)
-- [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
+- [WordPress Privacy](https://wordpress.org/documentation/article/wordpress-privacy/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-privacy/ -->
+- [FAQ My site was hacked](https://wordpress.org/documentation/article/faq-my-site-was-hacked/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-my-site-was-hacked/ -->
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
 
