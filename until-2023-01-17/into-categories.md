@@ -162,9 +162,9 @@ The category contains 11 articles.
 - [Introduction to Plugins](https://wordpress.org/documentation/article/introduction-to-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins/ -->
 - [Cookies](https://wordpress.org/documentation/article/cookies/) <!-- до 17.01.2023: https://wordpress.org/support/article/cookies/ -->
 - [Appearance Customize Screen, Customizer](https://wordpress.org/documentation/article/customizer/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-customize-screen/ -->
-- [Tools Export Screen](https://wordpress.org/support/article/tools-export-screen/)
-- [Site Health Screen](https://wordpress.org/support/article/site-health-screen/)
-- [FAQ Working with WordPress](https://wordpress.org/support/article/faq-working-with-wordpress/)
+- [Tools Export Screen](https://wordpress.org/documentation/article/tools-export-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/tools-export-screen/ -->
+- (Tools) [Site Health Screen](https://wordpress.org/documentation/article/site-health-screen/) <!-- до 17.01.2023: https://wordpress.org/support/article/site-health-screen/ -->
+- [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-working-with-wordpress/ -->
 
 # Customizing
 
