@@ -240,8 +240,8 @@ The category contains 34 articles.
 - [Debugging in WordPress](https://wordpress.org/documentation/article/debugging-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/debugging-in-wordpress/ -->
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/documentation/article/using-your-browser-to-diagnose-javascript-errors/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/ -->
 - [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
-- [Hardening WordPress](https://wordpress.org/support/article/hardening-wordpress/)
-- [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
+- [Hardening WordPress](https://wordpress.org/documentation/article/hardening-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/hardening-wordpress/ -->
+- [Brute Force Attacks](https://wordpress.org/documentation/article/brute-force-attacks/) <!-- до 17.01.2023: https://wordpress.org/support/article/brute-force-attacks/ -->
 - [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
 - [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
 
