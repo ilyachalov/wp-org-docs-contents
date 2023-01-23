@@ -45,6 +45,12 @@ Learn how to install WordPress and keep it secure and healthy.
 
 Need a hand installing WordPress? This section will help you.
 
+- [Hosting WordPress](https://wordpress.org/documentation/article/hosting-wordpress/)
+- [Optimization](https://wordpress.org/documentation/article/optimization/)
+- [Search Engine Optimization](https://wordpress.org/documentation/article/search-engine-optimization/)
+- [Troubleshoot login issues](https://wordpress.org/documentation/article/search-engine-optimization/)
+- [Use automated installation](https://wordpress.org/documentation/article/use-automated-installation/)
+
 ## [Maintenance](https://wordpress.org/documentation/category/maintenance/)
 
 Keep your site updated and ready with the articles in this section.
