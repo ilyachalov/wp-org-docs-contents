@@ -158,6 +158,16 @@ Learn how to create and publish your content. (The category contains 26 articles
 
 Learn how to manage your media files.
 
+- [Audio Shortcode](https://wordpress.org/documentation/article/audio-shortcode/)
+- [Edit Media](https://wordpress.org/documentation/article/edit-media/)
+- [Image Size and Quality](https://wordpress.org/documentation/article/image-size-and-quality/)
+- [Inserting Images into Posts and Pages](https://wordpress.org/documentation/article/inserting-images-into-posts-and-pages-block-editor/) (Block Editor)
+- [Inserting Images into Posts and Pages](https://wordpress.org/documentation/article/inserting-images-into-posts-and-pages-classic/) (Classic Editor)
+- [The WordPress Gallery](https://wordpress.org/documentation/article/the-wordpress-gallery-block-editor/) (Block Editor)
+- [The WordPress Gallery](https://wordpress.org/documentation/article/the-wordpress-gallery-classic-editor/) (Classic Editor)
+- [Use image and file attachments](https://wordpress.org/documentation/article/use-image-and-file-attachments/)
+- [Use Images](https://wordpress.org/documentation/article/use-images/)
+
 # [Customization](https://wordpress.org/documentation/customization/)
 
 Get the look and feel you want on your site.
