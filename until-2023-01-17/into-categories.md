@@ -218,8 +218,8 @@ The category contains 34 articles.
 - [Installing WordPress in your language](https://wordpress.org/documentation/article/installing-wordpress-in-your-language/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-in-your-language/ -->
 - [Multilingual WordPress](https://wordpress.org/documentation/article/multilingual-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/multilingual-wordpress/ -->
 - [Editing wp-config.php](https://wordpress.org/documentation/article/editing-wp-config-php/) <!-- до 17.01.2023: https://wordpress.org/support/article/editing-wp-config-php/ -->
-- [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
-- [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
+- [Installing Multiple WordPress Instances](https://wordpress.org/documentation/article/installing-multiple-blogs/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-multiple-blogs/ -->
+- [Multisite Network Administration](https://wordpress.org/documentation/article/multisite-network-administration/) <!-- до 17.01.2023: https://wordpress.org/support/article/multisite-network-administration/ -->
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
 - [Create A Network](https://wordpress.org/support/article/create-a-network/)
 - [Test driving WordPress](https://wordpress.org/support/article/test-driving-wordpress/)
