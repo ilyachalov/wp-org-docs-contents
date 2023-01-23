@@ -103,6 +103,11 @@ Get to know the control center of your site.
 - [Settings General Screen](https://wordpress.org/documentation/article/settings-general-screen/)
 - [Settings Media Screen](https://wordpress.org/documentation/article/settings-media-screen/)
 - [Settings Permalinks Screen](https://wordpress.org/documentation/article/settings-permalinks-screen/)
+- [Settings Privacy Screen](https://wordpress.org/documentation/article/settings-privacy-screen/)
+- [Settings Reading Screen](https://wordpress.org/documentation/article/settings-reading-screen/)
+- [Settings Writing Screen](https://wordpress.org/documentation/article/settings-writing-screen/)
+- [Site Health Screen](https://wordpress.org/documentation/article/site-health-screen/)
+- [Toolbar](https://wordpress.org/documentation/article/toolbar/)
 - 
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
