@@ -147,7 +147,12 @@ Learn how to create and publish your content.
 - [Use character entities](https://wordpress.org/documentation/article/use-character-entities/)
 - [Weblog Client](https://wordpress.org/documentation/article/weblog-client/)
 - [What are Emoji?](https://wordpress.org/documentation/article/what-are-emoji/)
-- 
+- [What are smilies?](https://wordpress.org/documentation/article/what-are-smilies/)
+- [What is an excerpt?](https://wordpress.org/documentation/article/what-is-an-excerpt-block-editor/) (Block Editor)
+- [What is an excerpt?](https://wordpress.org/documentation/article/what-is-an-excerpt-classic-editor/) (Classic Editor)
+- [WordPress Feeds](https://wordpress.org/documentation/article/wordpress-feeds/)
+- [Write code in your posts](https://wordpress.org/documentation/article/write-code-in-your-posts-classic-editor/) (Classic Editor)
+- [Write Posts](https://wordpress.org/documentation/article/write-posts-classic-editor/) (Classic Editor)
 
 ## [Media](https://wordpress.org/documentation/category/media/)
 
