@@ -76,7 +76,7 @@ Get to know how to publish with WordPress.
 
 ## [Dashboard](https://wordpress.org/documentation/category/dashboard/)
 
-Get to know the control center of your site.
+Get to know the control center of your site. (The category contains 44 articles.)
 
 - [Administration Screens](https://wordpress.org/documentation/article/administration-screens/)
 - [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/)
