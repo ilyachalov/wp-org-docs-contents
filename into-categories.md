@@ -30,6 +30,13 @@ A list of common WordPress questions from the community.
 
 Learn more about the WordPress project and its history.
 
+- [Become a WordPress contributor](https://wordpress.org/documentation/article/become-a-wordpress-contributor/)
+- [Learn about WordPress origins and version history](https://wordpress.org/documentation/article/learn-about-wordpress-and-version-history/)
+- [Supported Versions](https://wordpress.org/documentation/article/supported-versions/)
+- [What’s the difference between WordPress.org and WordPress.com?](https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/)
+- [WordPress Versions](https://wordpress.org/documentation/article/wordpress-versions/)
+- [WordPress.org and WordPress.com](https://wordpress.org/documentation/article/wordpress-org-and-wordpress-com/)
+
 # [Technical guides](https://wordpress.org/documentation/technical-guides/)
 
 Learn how to install WordPress and keep it secure and healthy.
