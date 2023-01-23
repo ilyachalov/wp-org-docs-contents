@@ -176,6 +176,13 @@ Get the look and feel you want on your site.
 
 Learn how to give the look and feel you want to your site.
 
+- [Additional guide to using the Site Editor](https://wordpress.org/documentation/article/additional-guide-to-using-the-site-editor/)
+- [Assign custom fields](https://wordpress.org/documentation/article/assign-custom-fields/)
+- [Block themes](https://wordpress.org/documentation/article/block-themes/)
+- [Border Settings overview](https://wordpress.org/documentation/article/border-settings-overview/)
+- [Comparing Patterns, Template Parts, and Reusable Blocks](https://wordpress.org/documentation/article/comparing-patterns-template-parts-and-reusable-blocks/)
+- 
+
 ## [Default themes](https://wordpress.org/documentation/category/default-themes/)
 
 Get information on the default themes that ship with WordPress.
