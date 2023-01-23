@@ -232,8 +232,8 @@ The category contains 34 articles.
 - [What is Post Type?](https://wordpress.org/documentation/article/what-is-post-type/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-types/ -->
 - [Template Editor](https://wordpress.org/documentation/article/template-editor/) (for block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/template-editor/ -->
 - [Changing The Site URL](https://wordpress.org/documentation/article/changing-the-site-url/) <!-- до 17.01.2023: https://wordpress.org/support/article/changing-the-site-url/ -->
-- [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
-- [Backing Up Your Database](https://wordpress.org/support/article/backing-up-your-database/)
+- [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
+- [Backing Up Your Database](https://wordpress.org/documentation/article/backing-up-your-database/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-database/ -->
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Optimization](https://wordpress.org/support/article/optimization/)
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
