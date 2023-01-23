@@ -88,11 +88,17 @@ Get to know the control center of your site.
 - [Customizer](https://wordpress.org/documentation/article/customizer/)
 - [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/)
 - [Dashboard Updates Screen](https://wordpress.org/documentation/article/dashboard-updates-screen/)
+
 - [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/)
 - [Media Add New Screen](https://wordpress.org/documentation/article/media-add-new-screen/)
 - [Media library screen](https://wordpress.org/documentation/article/media-library-screen/)
 - [Pages Screen](https://wordpress.org/documentation/article/pages-screen/)
 - [Plugins Add New Screen](https://wordpress.org/documentation/article/plugins-add-new-screen/)
+- [Plugins Screen](https://wordpress.org/documentation/article/plugins-screen/)
+- [Posts Categories Screen](https://wordpress.org/documentation/article/posts-categories-screen/)
+- [Posts Screen](https://wordpress.org/documentation/article/posts-screen/)
+- [Posts Tags Screen](https://wordpress.org/documentation/article/posts-tags-screen/)
+- [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/)
 - 
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
