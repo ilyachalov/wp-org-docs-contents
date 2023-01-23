@@ -234,8 +234,8 @@ The category contains 34 articles.
 - [Changing The Site URL](https://wordpress.org/documentation/article/changing-the-site-url/) <!-- до 17.01.2023: https://wordpress.org/support/article/changing-the-site-url/ -->
 - [Backing Up Your WordPress Files](https://wordpress.org/documentation/article/backing-up-your-wordpress-files/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-wordpress-files/ -->
 - [Backing Up Your Database](https://wordpress.org/documentation/article/backing-up-your-database/) <!-- до 17.01.2023: https://wordpress.org/support/article/backing-up-your-database/ -->
-- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
-- [Optimization](https://wordpress.org/support/article/optimization/)
+- [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
+- [Optimization](https://wordpress.org/documentation/article/optimization/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization/ -->
 - [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
