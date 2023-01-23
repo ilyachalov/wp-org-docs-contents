@@ -118,7 +118,10 @@ Get to know the control center of your site.
 - [Use keyboard shortcuts](https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/) (Classic Editor)
 - [Users Add New Screen](https://wordpress.org/documentation/article/users-add-new-screen/)
 - [Users Screen](https://wordpress.org/documentation/article/users-screen/)
-- 
+- [Users Your Profile Screen](https://wordpress.org/documentation/article/users-your-profile-screen/)
+- [Video Shortcode](https://wordpress.org/documentation/article/video-shortcode/)
+- [What is Post Type?](https://wordpress.org/documentation/article/what-is-post-type/)
+- [WordPress Block Editor](https://wordpress.org/documentation/article/wordpress-block-editor/)
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
 
