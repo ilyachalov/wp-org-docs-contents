@@ -41,15 +41,15 @@ Learn more about the WordPress project and its history.
 
 Learn how to install WordPress and keep it secure and healthy.
 
-## Installation
+## [Installation](https://wordpress.org/documentation/category/installation/)
 
 Need a hand installing WordPress? This section will help you.
 
-## Maintenance
+## [Maintenance](https://wordpress.org/documentation/category/maintenance/)
 
 Keep your site updated and ready with the articles in this section.
 
-## Security
+## [Security](https://wordpress.org/documentation/category/security/)
 
 Everything you need to know to protect your site.
 
