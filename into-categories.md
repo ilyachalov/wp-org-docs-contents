@@ -66,6 +66,10 @@ Keep your site updated and ready with the articles in this section.
 
 Everything you need to know to protect your site.
 
+- [Password Best Practices](https://wordpress.org/documentation/article/password-best-practices/)
+- [Why should I use HTTPS](https://wordpress.org/documentation/article/why-should-i-use-https/)
+- [WordPress Privacy](https://wordpress.org/documentation/article/wordpress-privacy/)
+
 # [Support guides](https://wordpress.org/documentation/support-guides/)
 
 Get to know how to publish with WordPress.
