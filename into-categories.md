@@ -180,6 +180,8 @@ Learn how to give the look and feel you want to your site.
 
 Get information on the default themes that ship with WordPress.
 
+## Block Editor
+
 ## Blocks
 
 Learn how you can use the Editor and all the different types of blocks to customize your site.
