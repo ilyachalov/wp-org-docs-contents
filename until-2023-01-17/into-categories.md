@@ -203,8 +203,8 @@ The category contains 10 articles.
 - [HTTPS for WordPress](https://wordpress.org/documentation/article/https-for-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/https-for-wordpress/ -->
 - [WordPress Privacy](https://wordpress.org/documentation/article/wordpress-privacy/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-privacy/ -->
 - [FAQ My site was hacked](https://wordpress.org/documentation/article/faq-my-site-was-hacked/) <!-- до 17.01.2023: https://wordpress.org/support/article/faq-my-site-was-hacked/ -->
-- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
-- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
+- [Administration Over SSL](https://wordpress.org/documentation/article/administration-over-ssl/) <!-- до 17.01.2023: https://wordpress.org/support/article/administration-over-ssl/ -->
+- [Two Step Authentication](https://wordpress.org/documentation/article/two-step-authentication/) <!-- до 17.01.2023: https://wordpress.org/support/article/two-step-authentication/ -->
 
 # Advanced Topics
 
