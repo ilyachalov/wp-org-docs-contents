@@ -182,6 +182,8 @@ Get information on the default themes that ship with WordPress.
 
 ## [Block Editor](https://wordpress.org/documentation/category/block-editor/)
 
+New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'.
+
 ## Blocks
 
 Learn how you can use the Editor and all the different types of blocks to customize your site.
