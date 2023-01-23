@@ -249,8 +249,8 @@ The category contains 34 articles.
 
 The category contains 17 articles.
 
-- [New to WordPress – Where to start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
-- [htaccess](https://wordpress.org/support/article/htaccess/)
+- [Get started with WordPress](https://wordpress.org/documentation/article/get-started-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/new-to-wordpress-where-to-start/ -->
+- [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
