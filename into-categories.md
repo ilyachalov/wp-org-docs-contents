@@ -132,6 +132,11 @@ Learn how to create and publish your content.
 - [Create a Search Page](https://wordpress.org/documentation/article/create-a-search-page/)
 - [Create pages](https://wordpress.org/documentation/article/create-pages/)
 - [Customize date and time format](https://wordpress.org/documentation/article/customize-date-and-time-format/)
+- [Customize permalinks](https://wordpress.org/documentation/article/customize-permalinks/)
+- [How WordPress Processes Post Content](https://wordpress.org/documentation/article/how-wordpress-processes-post-content/)
+- [Pages Add New Screen](https://wordpress.org/documentation/article/pages-add-new-screen/)
+- [Post Status](https://wordpress.org/documentation/article/post-status/)
+- [Protect posts with password](https://wordpress.org/documentation/article/protect-posts-with-password/)
 - 
 
 ## [Media](https://wordpress.org/documentation/category/media/)
