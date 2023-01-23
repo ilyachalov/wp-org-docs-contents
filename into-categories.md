@@ -88,7 +88,6 @@ Get to know the control center of your site.
 - [Customizer](https://wordpress.org/documentation/article/customizer/)
 - [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/)
 - [Dashboard Updates Screen](https://wordpress.org/documentation/article/dashboard-updates-screen/)
-
 - [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/)
 - [Media Add New Screen](https://wordpress.org/documentation/article/media-add-new-screen/)
 - [Media library screen](https://wordpress.org/documentation/article/media-library-screen/)
