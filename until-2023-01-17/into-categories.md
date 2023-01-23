@@ -257,8 +257,8 @@ The category contains 17 articles.
 - [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- до 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
 - [Loopbacks](https://wordpress.org/documentation/article/loopbacks/) <!-- до 17.01.2023: https://wordpress.org/support/article/loopbacks/ -->
-- [Importing Content](https://wordpress.org/support/article/importing-content/)
-- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
+- [Importing Content](https://wordpress.org/documentation/article/importing-content/) <!-- до 17.01.2023: https://wordpress.org/support/article/importing-content/ -->
+- [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
 - [Common WordPress Errors](https://wordpress.org/support/article/common-wordpress-errors/)
 - [Debugging in WordPress](https://wordpress.org/support/article/debugging-in-wordpress/)
 - [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
