@@ -98,6 +98,11 @@ Get to know the control center of your site.
 - [Posts Screen](https://wordpress.org/documentation/article/posts-screen/)
 - [Posts Tags Screen](https://wordpress.org/documentation/article/posts-tags-screen/)
 - [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/)
+- [Roles and Capabilities](https://wordpress.org/documentation/article/roles-and-capabilities/)
+- [Settings Discussion Screen](https://wordpress.org/documentation/article/settings-discussion-screen/)
+- [Settings General Screen](https://wordpress.org/documentation/article/settings-general-screen/)
+- [Settings Media Screen](https://wordpress.org/documentation/article/settings-media-screen/)
+- [Settings Permalinks Screen](https://wordpress.org/documentation/article/settings-permalinks-screen/)
 - 
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
