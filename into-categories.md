@@ -137,6 +137,11 @@ Learn how to create and publish your content.
 - [Pages Add New Screen](https://wordpress.org/documentation/article/pages-add-new-screen/)
 - [Post Status](https://wordpress.org/documentation/article/post-status/)
 - [Protect posts with password](https://wordpress.org/documentation/article/protect-posts-with-password/)
+- [Revisions](https://wordpress.org/documentation/article/revisions/)
+- [Set blog content visibility](https://wordpress.org/documentation/article/content-visibility-block-editor/) (Block Editor)
+- [Set blog content visibility](https://wordpress.org/documentation/article/content-visibility-classic-editor/) (Classic Editor)
+- [Sticky Posts](https://wordpress.org/documentation/article/sticky-posts-classic-editor/) (Classic Editor)
+- [Taxonomies](https://wordpress.org/documentation/article/taxonomies/)
 - 
 
 ## [Media](https://wordpress.org/documentation/category/media/)
