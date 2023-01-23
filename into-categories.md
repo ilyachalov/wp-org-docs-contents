@@ -78,6 +78,12 @@ Get to know how to publish with WordPress.
 
 Get to know the control center of your site.
 
+- [Administration Screens](https://wordpress.org/documentation/article/administration-screens/)
+- [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/)
+- [Appearance Theme File Editor Screen](https://wordpress.org/documentation/article/appearance-theme-file-editor-screen/)
+- [Appearance Themes Screen](https://wordpress.org/documentation/article/appearance-themes-screen/)
+- [Appearance Widgets Screen](https://wordpress.org/documentation/article/appearance-widgets-screen-classic-editor/) (Classic Editor)
+
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
 
 Learn how to create and publish your content.
