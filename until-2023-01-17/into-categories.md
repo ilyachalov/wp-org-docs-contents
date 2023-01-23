@@ -172,8 +172,8 @@ The category contains 7 articles.
 
 - [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)<!-- до 17.01.2023: https://wordpress.org/support/article/using-themes/ -->
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
-- [WordPress Widgets](https://wordpress.org/support/article/wordpress-widgets/)
-- [Dimension Settings Overview](https://wordpress.org/support/article/dimension-controls-overview/) (block editor)
+- [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-widgets/ -->
+- [Dimension Settings Overview](https://wordpress.org/documentation/article/dimension-controls-overview/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/dimension-controls-overview/ -->
 - [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
 - [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
