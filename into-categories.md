@@ -180,7 +180,7 @@ Learn how to give the look and feel you want to your site.
 
 Get information on the default themes that ship with WordPress.
 
-## Block Editor
+## [Block Editor](https://wordpress.org/documentation/category/block-editor/)
 
 ## Blocks
 
