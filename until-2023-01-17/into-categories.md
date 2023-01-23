@@ -251,8 +251,8 @@ The category contains 17 articles.
 
 - [Get started with WordPress](https://wordpress.org/documentation/article/get-started-with-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/new-to-wordpress-where-to-start/ -->
 - [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
-- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
-- [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
+- [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
+- [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
 - [Login Trouble](https://wordpress.org/support/article/login-trouble/)
 - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
