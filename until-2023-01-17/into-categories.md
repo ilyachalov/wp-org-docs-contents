@@ -186,8 +186,8 @@ The category contains 8 articles.
 - [Plugin and themes auto-updates](https://wordpress.org/documentation/article/plugins-themes-auto-updates/) <!-- до 17.01.2023: https://wordpress.org/support/article/plugins-themes-auto-updates/ -->
 - [WordPress Backups](https://wordpress.org/documentation/article/wordpress-backups/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-backups/ -->
 - [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
-- [Optimization](https://wordpress.org/support/article/optimization/)
-- [Optimization – Caching](https://wordpress.org/support/article/optimization-caching/)
+- [Optimization](https://wordpress.org/documentation/article/optimization/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization/ -->
+- [Optimization – Caching](https://wordpress.org/documentation/article/optimization-caching/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization-caching/ -->
 - [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
 - [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
 
