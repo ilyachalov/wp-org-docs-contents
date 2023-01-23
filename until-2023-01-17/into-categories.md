@@ -212,8 +212,8 @@ The category contains 34 articles.
 
 - [What’s the difference between WordPress.org and WordPress.com?](https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-vs-wordpress-com/ -->
 - [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
-- [Nginx](https://wordpress.org/support/article/nginx/)
-- [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
+- [Nginx](https://wordpress.org/documentation/article/nginx/) <!-- до 17.01.2023: https://wordpress.org/support/article/nginx/ -->
+- [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
 - [Installing WordPress in your language](https://wordpress.org/support/article/installing-wordpress-in-your-language/)
 - [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
