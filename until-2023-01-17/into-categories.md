@@ -242,8 +242,8 @@ The category contains 34 articles.
 - [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
 - [Hardening WordPress](https://wordpress.org/documentation/article/hardening-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/hardening-wordpress/ -->
 - [Brute Force Attacks](https://wordpress.org/documentation/article/brute-force-attacks/) <!-- до 17.01.2023: https://wordpress.org/support/article/brute-force-attacks/ -->
-- [Administration Over SSL](https://wordpress.org/support/article/administration-over-ssl/)
-- [Two Step Authentication](https://wordpress.org/support/article/two-step-authentication/)
+- [Administration Over SSL](https://wordpress.org/documentation/article/administration-over-ssl/) <!-- до 17.01.2023: https://wordpress.org/support/article/administration-over-ssl/ -->
+- [Two Step Authentication](https://wordpress.org/documentation/article/two-step-authentication/) <!-- до 17.01.2023: https://wordpress.org/support/article/two-step-authentication/ -->
 
 # Troubleshooting
 
