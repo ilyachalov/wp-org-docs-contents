@@ -174,9 +174,9 @@ The category contains 7 articles.
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
 - [Manage WordPress widgets](https://wordpress.org/documentation/article/manage-wordpress-widgets/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-widgets/ -->
 - [Dimension Settings Overview](https://wordpress.org/documentation/article/dimension-controls-overview/) (block editor) <!-- до 17.01.2023: https://wordpress.org/support/article/dimension-controls-overview/ -->
-- [Appearance Menus Screen](https://wordpress.org/support/article/appearance-menus-screen/) (for not block themes)
-- [Restoring Your Database From Backup](https://wordpress.org/support/article/restoring-your-database-from-backup/)
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
+- [Appearance Menus Screen](https://wordpress.org/documentation/article/appearance-menus-screen/) (for not block themes) <!-- до 17.01.2023: https://wordpress.org/support/article/appearance-menus-screen/ -->
+- [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
+- [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
 
 # Maintenance
 
