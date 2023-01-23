@@ -226,8 +226,8 @@ The category contains 34 articles.
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
 - [Post Status](https://wordpress.org/documentation/article/post-status/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-status/ -->
 - [Sticky Posts](https://wordpress.org/documentation/article/sticky-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/sticky-posts/ -->
-- [Custom Fields](https://wordpress.org/support/article/custom-fields/)
-- [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
+- [Assign custom fields](https://wordpress.org/documentation/article/assign-custom-fields/) <!-- до 17.01.2023: https://wordpress.org/support/article/custom-fields/ -->
+- [Audio Shortcode](https://wordpress.org/documentation/article/audio-shortcode/) <!-- до 17.01.2023: https://wordpress.org/support/article/audio-shortcode/ -->
 - [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
 - [Post Types](https://wordpress.org/support/article/post-types/)
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
