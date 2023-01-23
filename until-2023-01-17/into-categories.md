@@ -261,8 +261,8 @@ The category contains 17 articles.
 - [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
 - [Common WordPress Errors](https://wordpress.org/documentation/article/common-wordpress-errors/) <!-- до 17.01.2023: https://wordpress.org/support/article/common-wordpress-errors/ -->
 - [Debugging in WordPress](https://wordpress.org/documentation/article/debugging-in-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/debugging-in-wordpress/ -->
-- [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/)
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
+- [Using Your Browser to Diagnose JavaScript Errors](https://wordpress.org/documentation/article/using-your-browser-to-diagnose-javascript-errors/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-your-browser-to-diagnose-javascript-errors/ -->
+- [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
 - [Brute Force Attacks](https://wordpress.org/support/article/brute-force-attacks/)
 - [FAQ My site was hacked](https://wordpress.org/support/article/faq-my-site-was-hacked/)
 - [FAQ Troubleshooting](https://wordpress.org/support/article/faq-troubleshooting/)
