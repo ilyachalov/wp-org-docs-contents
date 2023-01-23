@@ -8,6 +8,14 @@ Learn about WordPress and its community.
 
 New to WordPress? Learn how to get started.
 
+- [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-block-editor/) (Block Editor)
+- [First Steps with WordPress](https://wordpress.org/documentation/article/first-steps-with-wordpress-classic/) (Classic Editor)
+- [Get started with WordPress](https://wordpress.org/documentation/article/get-started-with-wordpress/)
+- [Introduction to Blogging](https://wordpress.org/documentation/article/introduction-to-blogging/)
+- [Where to find WordPress help](https://wordpress.org/documentation/article/where-to-find-wordpress-help/)
+- [WordPress Glossary](https://wordpress.org/documentation/article/wordpress-glossary/)
+- [WordPress semantics](https://wordpress.org/documentation/article/wordpress-semantics/)
+
 ## [FAQs](https://wordpress.org/documentation/category/faqs/)
 
 A list of common WordPress questions from the community.
