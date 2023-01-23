@@ -41,6 +41,18 @@ Learn more about the WordPress project and its history.
 
 Learn how to install WordPress and keep it secure and healthy.
 
+## Installation
+
+Need a hand installing WordPress? This section will help you.
+
+## Maintenance
+
+Keep your site updated and ready with the articles in this section.
+
+## Security
+
+Everything you need to know to protect your site.
+
 # [Support guides](https://wordpress.org/documentation/support-guides/)
 
 Get to know how to publish with WordPress.
