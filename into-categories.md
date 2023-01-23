@@ -20,6 +20,12 @@ New to WordPress? Learn how to get started.
 
 A list of common WordPress questions from the community.
 
+- [FAQ I Make Changes and Nothing Happens](https://wordpress.org/documentation/article/faq-i-make-changes-and-nothing-happens/)
+- [FAQ Installation](https://wordpress.org/documentation/article/faq-installation/)
+- [FAQ My site was hacked](https://wordpress.org/documentation/article/faq-my-site-was-hacked/)
+- [FAQ Troubleshooting](https://wordpress.org/documentation/article/faq-troubleshooting/)
+- [FAQ Work with WordPress](https://wordpress.org/documentation/article/faq-work-with-wordpress/)
+
 ## [About WordPress](https://wordpress.org/documentation/category/about-wp/)
 
 Learn more about the WordPress project and its history.
