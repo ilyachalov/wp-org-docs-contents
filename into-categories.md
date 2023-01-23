@@ -74,6 +74,18 @@ Everything you need to know to protect your site.
 
 Get to know how to publish with WordPress.
 
+## [Dashboard](https://wordpress.org/documentation/category/dashboard/)
+
+Get to know the control center of your site.
+
+## [Publishing](https://wordpress.org/documentation/category/publishing/)
+
+Learn how to create and publish your content.
+
+## [Media](https://wordpress.org/documentation/category/media/)
+
+Learn how to manage your media files.
+
 # [Customization](https://wordpress.org/documentation/customization/)
 
 Get the look and feel you want on your site.
