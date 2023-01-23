@@ -172,11 +172,11 @@ Learn how to manage your media files.
 
 Get the look and feel you want on your site.
 
-## Appearance
+## [Appearance](https://wordpress.org/documentation/category/appearance/)
 
 Learn how to give the look and feel you want to your site.
 
-## Default themes
+## [Default themes](https://wordpress.org/documentation/category/default-themes/)
 
 Get information on the default themes that ship with WordPress.
 
@@ -184,14 +184,14 @@ Get information on the default themes that ship with WordPress.
 
 Learn how you can use the Editor and all the different types of blocks to customize your site.
 
-### Media blocks
+### [Media blocks](https://wordpress.org/documentation/category/media-blocks/)
 
-### Text blocks
+### [Text blocks](https://wordpress.org/documentation/category/text-blocks/)
 
-### Design blocks
+### [Design blocks](https://wordpress.org/documentation/category/design-blocks/)
 
-### Embed blocks
+### [Embed blocks](https://wordpress.org/documentation/category/embed-blocks/)
 
-### Widget blocks
+### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
 
-### Theme blocks
+### [Theme blocks](https://wordpress.org/documentation/category/theme-blocks/)
