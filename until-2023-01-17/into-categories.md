@@ -210,8 +210,8 @@ The category contains 10 articles.
 
 The category contains 34 articles.
 
-- [WordPress vs WordPress.com](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
-- [htaccess](https://wordpress.org/support/article/htaccess/)
+- [What’s the difference between WordPress.org and WordPress.com?](https://wordpress.org/documentation/article/difference-between-wordpress-org-and-wordpress-com/) <!-- до 17.01.2023: https://wordpress.org/support/article/wordpress-vs-wordpress-com/ -->
+- [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
 - [Nginx](https://wordpress.org/support/article/nginx/)
 - [Using cPanel](https://wordpress.org/support/article/using-cpanel/)
 - [phpMyAdmin](https://wordpress.org/support/article/phpmyadmin/)
