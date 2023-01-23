@@ -188,8 +188,8 @@ The category contains 8 articles.
 - [Restoring Your Database From Backup](https://wordpress.org/documentation/article/restoring-your-database-from-backup/) <!-- до 17.01.2023: https://wordpress.org/support/article/restoring-your-database-from-backup/ -->
 - [Optimization](https://wordpress.org/documentation/article/optimization/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization/ -->
 - [Optimization – Caching](https://wordpress.org/documentation/article/optimization-caching/) <!-- до 17.01.2023: https://wordpress.org/support/article/optimization-caching/ -->
-- [Moving WordPress](https://wordpress.org/support/article/moving-wordpress/)
-- [Search Engine Optimization](https://wordpress.org/support/article/search-engine-optimization/) (SEO)
+- [Moving WordPress](https://wordpress.org/documentation/article/moving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/moving-wordpress/ -->
+- [Search Engine Optimization](https://wordpress.org/documentation/article/search-engine-optimization/) (SEO) <!-- до 17.01.2023: https://wordpress.org/support/article/search-engine-optimization/ -->
 
 # Security
 
