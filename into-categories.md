@@ -171,3 +171,27 @@ Learn how to manage your media files.
 # [Customization](https://wordpress.org/documentation/customization/)
 
 Get the look and feel you want on your site.
+
+## Appearance
+
+Learn how to give the look and feel you want to your site.
+
+## Default themes
+
+Get information on the default themes that ship with WordPress.
+
+## Blocks
+
+Learn how you can use the Editor and all the different types of blocks to customize your site.
+
+### Media blocks
+
+### Text blocks
+
+### Design blocks
+
+### Embed blocks
+
+### Widget blocks
+
+### Theme blocks
