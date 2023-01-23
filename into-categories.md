@@ -127,6 +127,13 @@ Get to know the control center of your site. (The category contains 44 articles.
 
 Learn how to create and publish your content.
 
+- [Comment moderation](https://wordpress.org/documentation/article/comment-moderation/)
+- [Comments in WordPress](https://wordpress.org/documentation/article/comments-in-wordpress/)
+- [Create a Search Page](https://wordpress.org/documentation/article/create-a-search-page/)
+- [Create pages](https://wordpress.org/documentation/article/create-pages/)
+- [Customize date and time format](https://wordpress.org/documentation/article/customize-date-and-time-format/)
+- 
+
 ## [Media](https://wordpress.org/documentation/category/media/)
 
 Learn how to manage your media files.
