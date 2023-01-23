@@ -113,6 +113,11 @@ Get to know the control center of your site.
 - [Tools Export Screen](https://wordpress.org/documentation/article/tools-export-screen/)
 - [Tools Import Screen](https://wordpress.org/documentation/article/tools-import-screen/)
 - [Tools Network Screen](https://wordpress.org/documentation/article/tools-network-screen/)
+- [Tools Screen](https://wordpress.org/documentation/article/tools-screen/)
+- [Use keyboard shortcuts](https://wordpress.org/documentation/article/keyboard-shortcuts-block-editor/) (Block Editor)
+- [Use keyboard shortcuts](https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/) (Classic Editor)
+- [Users Add New Screen](https://wordpress.org/documentation/article/users-add-new-screen/)
+- [Users Screen](https://wordpress.org/documentation/article/users-screen/)
 - 
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
