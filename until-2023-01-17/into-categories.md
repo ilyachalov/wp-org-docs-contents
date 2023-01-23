@@ -216,8 +216,8 @@ The category contains 34 articles.
 - [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
 - [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
 - [Installing WordPress in your language](https://wordpress.org/documentation/article/installing-wordpress-in-your-language/) <!-- до 17.01.2023: https://wordpress.org/support/article/installing-wordpress-in-your-language/ -->
-- [Multilingual WordPress](https://wordpress.org/support/article/multilingual-wordpress/)
-- [Editing wp-config.php](https://wordpress.org/support/article/editing-wp-config-php/)
+- [Multilingual WordPress](https://wordpress.org/documentation/article/multilingual-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/multilingual-wordpress/ -->
+- [Editing wp-config.php](https://wordpress.org/documentation/article/editing-wp-config-php/) <!-- до 17.01.2023: https://wordpress.org/support/article/editing-wp-config-php/ -->
 - [Installing Multiple WordPress Instances](https://wordpress.org/support/article/installing-multiple-blogs/)
 - [Multisite Network Administration](https://wordpress.org/support/article/multisite-network-administration/)
 - [Before You Create A Network](https://wordpress.org/support/article/before-you-create-a-network/)
