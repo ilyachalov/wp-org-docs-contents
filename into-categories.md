@@ -83,6 +83,12 @@ Get to know the control center of your site.
 - [Appearance Theme File Editor Screen](https://wordpress.org/documentation/article/appearance-theme-file-editor-screen/)
 - [Appearance Themes Screen](https://wordpress.org/documentation/article/appearance-themes-screen/)
 - [Appearance Widgets Screen](https://wordpress.org/documentation/article/appearance-widgets-screen-classic-editor/) (Classic Editor)
+- [Block-based Widgets Editor](https://wordpress.org/documentation/article/block-based-widgets-editor/)
+- [Comments screen](https://wordpress.org/documentation/article/comments-screen/)
+- [Customizer](https://wordpress.org/documentation/article/customizer/)
+- [Dashboard Screen](https://wordpress.org/documentation/article/dashboard-screen/)
+- [Dashboard Updates Screen](https://wordpress.org/documentation/article/dashboard-updates-screen/)
+- 
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
 
