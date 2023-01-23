@@ -108,6 +108,11 @@ Get to know the control center of your site.
 - [Settings Writing Screen](https://wordpress.org/documentation/article/settings-writing-screen/)
 - [Site Health Screen](https://wordpress.org/documentation/article/site-health-screen/)
 - [Toolbar](https://wordpress.org/documentation/article/toolbar/)
+- [Tools Erase Personal Data Screen](https://wordpress.org/documentation/article/tools-erase-personal-data-screen/)
+- [Tools Export Personal Data Screen](https://wordpress.org/documentation/article/tools-export-personal-data-screen/)
+- [Tools Export Screen](https://wordpress.org/documentation/article/tools-export-screen/)
+- [Tools Import Screen](https://wordpress.org/documentation/article/tools-import-screen/)
+- [Tools Network Screen](https://wordpress.org/documentation/article/tools-network-screen/)
 - 
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
