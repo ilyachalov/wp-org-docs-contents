@@ -142,6 +142,11 @@ Learn how to create and publish your content.
 - [Set blog content visibility](https://wordpress.org/documentation/article/content-visibility-classic-editor/) (Classic Editor)
 - [Sticky Posts](https://wordpress.org/documentation/article/sticky-posts-classic-editor/) (Classic Editor)
 - [Taxonomies](https://wordpress.org/documentation/article/taxonomies/)
+- [Trackbacks and Pingbacks](https://wordpress.org/documentation/article/trackbacks-and-pingbacks/)
+- [Understand comment spam](https://wordpress.org/documentation/article/understand-comment-spam/)
+- [Use character entities](https://wordpress.org/documentation/article/use-character-entities/)
+- [Weblog Client](https://wordpress.org/documentation/article/weblog-client/)
+- [What are Emoji?](https://wordpress.org/documentation/article/what-are-emoji/)
 - 
 
 ## [Media](https://wordpress.org/documentation/category/media/)
