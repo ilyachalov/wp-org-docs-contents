@@ -125,7 +125,7 @@ Get to know the control center of your site. (The category contains 44 articles.
 
 ## [Publishing](https://wordpress.org/documentation/category/publishing/)
 
-Learn how to create and publish your content.
+Learn how to create and publish your content. (The category contains 26 articles.)
 
 - [Comment moderation](https://wordpress.org/documentation/article/comment-moderation/)
 - [Comments in WordPress](https://wordpress.org/documentation/article/comments-in-wordpress/)
