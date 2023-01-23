@@ -253,8 +253,8 @@ The category contains 17 articles.
 - [htaccess](https://wordpress.org/documentation/article/htaccess/) <!-- до 17.01.2023: https://wordpress.org/support/article/htaccess/ -->
 - [Using cPanel](https://wordpress.org/documentation/article/using-cpanel/) <!-- до 17.01.2023: https://wordpress.org/support/article/using-cpanel/ -->
 - [phpMyAdmin](https://wordpress.org/documentation/article/phpmyadmin/) <!-- до 17.01.2023: https://wordpress.org/support/article/phpmyadmin/ -->
-- [Login Trouble](https://wordpress.org/support/article/login-trouble/)
-- [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/)
+- [Troubleshoot login issues](https://wordpress.org/documentation/article/troubleshoot-login-issues/) <!-- до 17.01.2023: https://wordpress.org/support/article/login-trouble/ -->
+- [Reset Your Password](https://wordpress.org/documentation/article/reset-your-password/) <!-- до 17.01.2023: https://wordpress.org/support/article/resetting-your-password/ -->
 - [Managing Plugins](https://wordpress.org/support/article/managing-plugins/)
 - [Loopbacks](https://wordpress.org/support/article/loopbacks/)
 - [Importing Content](https://wordpress.org/support/article/importing-content/)
