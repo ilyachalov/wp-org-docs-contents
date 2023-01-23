@@ -228,8 +228,8 @@ The category contains 34 articles.
 - [Sticky Posts](https://wordpress.org/documentation/article/sticky-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/sticky-posts/ -->
 - [Assign custom fields](https://wordpress.org/documentation/article/assign-custom-fields/) <!-- до 17.01.2023: https://wordpress.org/support/article/custom-fields/ -->
 - [Audio Shortcode](https://wordpress.org/documentation/article/audio-shortcode/) <!-- до 17.01.2023: https://wordpress.org/support/article/audio-shortcode/ -->
-- [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
-- [Post Types](https://wordpress.org/support/article/post-types/)
+- [Write code in your posts](https://wordpress.org/documentation/article/write-code-in-your-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/writing-code-in-your-posts/ -->
+- [What is Post Type?](https://wordpress.org/documentation/article/what-is-post-type/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-types/ -->
 - [Template Editor](https://wordpress.org/support/article/template-editor/) (for block themes)
 - [Changing The Site URL](https://wordpress.org/support/article/changing-the-site-url/)
 - [Backing Up Your WordPress Files](https://wordpress.org/support/article/backing-up-your-wordpress-files/)
