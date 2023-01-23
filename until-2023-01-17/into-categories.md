@@ -224,8 +224,8 @@ The category contains 34 articles.
 - [Create A Network](https://wordpress.org/documentation/article/create-a-network/) <!-- до 17.01.2023: https://wordpress.org/support/article/create-a-network/ -->
 - [Test driving WordPress](https://wordpress.org/documentation/article/test-driving-wordpress/) <!-- до 17.01.2023: https://wordpress.org/support/article/test-driving-wordpress/ -->
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/) <!-- до 17.01.2023: https://wordpress.org/support/article/managing-plugins/ -->
-- [Post Status](https://wordpress.org/support/article/post-status/)
-- [Sticky Posts](https://wordpress.org/support/article/sticky-posts/)
+- [Post Status](https://wordpress.org/documentation/article/post-status/) <!-- до 17.01.2023: https://wordpress.org/support/article/post-status/ -->
+- [Sticky Posts](https://wordpress.org/documentation/article/sticky-posts-classic-editor/) (classic editor) <!-- до 17.01.2023: https://wordpress.org/support/article/sticky-posts/ -->
 - [Custom Fields](https://wordpress.org/support/article/custom-fields/)
 - [Audio Shortcode](https://wordpress.org/support/article/audio-shortcode/)
 - [Writing Code in Your Posts](https://wordpress.org/support/article/writing-code-in-your-posts/)
