@@ -48,7 +48,7 @@ Need a hand installing WordPress? This section will help you.
 - [Hosting WordPress](https://wordpress.org/documentation/article/hosting-wordpress/)
 - [Optimization](https://wordpress.org/documentation/article/optimization/)
 - [Search Engine Optimization](https://wordpress.org/documentation/article/search-engine-optimization/)
-- [Troubleshoot login issues](https://wordpress.org/documentation/article/search-engine-optimization/)
+- [Troubleshoot login issues](https://wordpress.org/documentation/article/troubleshoot-login-issues/)
 - [Use automated installation](https://wordpress.org/documentation/article/use-automated-installation/)
 
 ## [Maintenance](https://wordpress.org/documentation/category/maintenance/)
