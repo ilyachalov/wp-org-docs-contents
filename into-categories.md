@@ -259,6 +259,19 @@ Learn how you can use the Editor and all the different types of blocks to custom
 
 ### [Design blocks](https://wordpress.org/documentation/category/design-blocks/)
 
+- [(Deprecated)Button Block](https://wordpress.org/documentation/article/button-block/)
+- [Buttons Block](https://wordpress.org/documentation/article/buttons-block/)
+- [Columns Block](https://wordpress.org/documentation/article/columns-block/)
+- [Group Block](https://wordpress.org/documentation/article/group-block/)
+- [More Block](https://wordpress.org/documentation/article/more-block/)
+- [Page Break Block](https://wordpress.org/documentation/article/page-break-block/)
+- [Page Jumps](https://wordpress.org/documentation/article/page-jumps/)
+- [Reusable Blocks](https://wordpress.org/documentation/article/reusable-blocks/)
+- [Row Block](https://wordpress.org/documentation/article/row-block/)
+- [Separator Block](https://wordpress.org/documentation/article/separator-block/)
+- [Spacer Block](https://wordpress.org/documentation/article/spacer-block/)
+- [Stack Block](https://wordpress.org/documentation/article/stack-block/)
+
 ### [Embed blocks](https://wordpress.org/documentation/category/embed-blocks/)
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
