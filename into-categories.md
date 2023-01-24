@@ -216,6 +216,11 @@ New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'
 - [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/)
 - [Block Patterns](https://wordpress.org/documentation/article/block-pattern/)
 - [Blocks list](https://wordpress.org/documentation/article/blocks-list/)
+- [Colors Settings overview](https://wordpress.org/documentation/article/colors-settings-overview/)
+- [Dimension Settings Overview](https://wordpress.org/documentation/article/dimension-controls-overview/)
+- [Embed Block](https://wordpress.org/documentation/article/embed-block/)
+- [How to use the View feature](https://wordpress.org/documentation/article/how-to-use-the-preview-function/)
+- [List View](https://wordpress.org/documentation/article/list-view/)
 - 
 
 ## Blocks
