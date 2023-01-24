@@ -236,6 +236,14 @@ Learn how you can use the Editor and all the different types of blocks to custom
 
 ### [Media blocks](https://wordpress.org/documentation/category/media-blocks/)
 
+- [Audio Block](https://wordpress.org/documentation/article/audio-block/)
+- [Cover Block](https://wordpress.org/documentation/article/cover-block/)
+- [File Block](https://wordpress.org/documentation/article/file-block/)
+- [Gallery Block](https://wordpress.org/documentation/article/gallery-block/)
+- [Image Block](https://wordpress.org/documentation/article/image-block/)
+- [Media & Text Block](https://wordpress.org/documentation/article/media-text-block/)
+- [Video Block](https://wordpress.org/documentation/article/video-block/)
+
 ### [Text blocks](https://wordpress.org/documentation/category/text-blocks/)
 
 ### [Design blocks](https://wordpress.org/documentation/category/design-blocks/)
