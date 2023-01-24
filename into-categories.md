@@ -259,7 +259,7 @@ Learn how you can use the Editor and all the different types of blocks to custom
 
 ### [Design blocks](https://wordpress.org/documentation/category/design-blocks/)
 
-- [(Deprecated)Button Block](https://wordpress.org/documentation/article/button-block/)
+- (Deprecated) [Button Block](https://wordpress.org/documentation/article/button-block/)
 - [Buttons Block](https://wordpress.org/documentation/article/buttons-block/)
 - [Columns Block](https://wordpress.org/documentation/article/columns-block/)
 - [Group Block](https://wordpress.org/documentation/article/group-block/)
