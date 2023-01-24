@@ -246,6 +246,17 @@ Learn how you can use the Editor and all the different types of blocks to custom
 
 ### [Text blocks](https://wordpress.org/documentation/category/text-blocks/)
 
+- [Classic Block](https://wordpress.org/documentation/article/classic-block/)
+- [Code Block](https://wordpress.org/documentation/article/code-block/)
+- [Heading Block](https://wordpress.org/documentation/article/heading-block/)
+- [List Block](https://wordpress.org/documentation/article/list-block/)
+- [Paragraph Block](https://wordpress.org/documentation/article/paragraph-block/)
+- [Preformatted Block](https://wordpress.org/documentation/article/preformatted-block/)
+- [Pullquote Block](https://wordpress.org/documentation/article/pullquote-block/)
+- [Quote block](https://wordpress.org/documentation/article/quote-block/)
+- [Table Block](https://wordpress.org/documentation/article/table-block/)
+- [Verse Block](https://wordpress.org/documentation/article/verse-block/)
+
 ### [Design blocks](https://wordpress.org/documentation/category/design-blocks/)
 
 ### [Embed blocks](https://wordpress.org/documentation/category/embed-blocks/)
