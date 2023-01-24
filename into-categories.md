@@ -226,7 +226,9 @@ New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'
 - [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/)
 - [Preferences Overview](https://wordpress.org/documentation/article/preferences-overview/)
 - [Submit your Block Pattern to the Directory](https://wordpress.org/documentation/article/submit-your-block-pattern-to-the-directory/)
-- 
+- [Template Editor](https://wordpress.org/documentation/article/template-editor/)
+- [Typography Settings Overview](https://wordpress.org/documentation/article/typography-settings-overview/)
+- [Work with blocks](https://wordpress.org/documentation/article/work-with-blocks/)
 
 ## Blocks
 
