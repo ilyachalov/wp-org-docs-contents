@@ -195,6 +195,13 @@ Learn how to give the look and feel you want to your site.
 
 Get information on the default themes that ship with WordPress.
 
+- [Twenty Fifteen](https://wordpress.org/documentation/article/twenty-fifteen/)
+- [Twenty Nineteen](https://wordpress.org/documentation/article/twenty-nineteen/)
+- [Twenty Seventeen](https://wordpress.org/documentation/article/twenty-seventeen/)
+- [Twenty Sixteen](https://wordpress.org/documentation/article/twenty-sixteen/)
+- [Twenty Twenty](https://wordpress.org/documentation/article/twenty-twenty/)
+- 
+
 ## [Block Editor](https://wordpress.org/documentation/category/block-editor/)
 
 New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'.
