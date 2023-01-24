@@ -209,7 +209,14 @@ Get information on the default themes that ship with WordPress.
 
 ## [Block Editor](https://wordpress.org/documentation/category/block-editor/)
 
-New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'.
+New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'. (The category contains 18 articles.)
+
+- [Adding a new block](https://wordpress.org/documentation/article/adding-a-new-block/)
+- [Block Directory](https://wordpress.org/documentation/article/block-directory/)
+- [Block Pattern Directory](https://wordpress.org/documentation/article/block-pattern-directory/)
+- [Block Patterns](https://wordpress.org/documentation/article/block-pattern/)
+- [Blocks list](https://wordpress.org/documentation/article/blocks-list/)
+- 
 
 ## Blocks
 
