@@ -274,7 +274,7 @@ Learn how you can use the Editor and all the different types of blocks to custom
 
 ### [Embed blocks](https://wordpress.org/documentation/category/embed-blocks/)
 
-The category contains 35 articles.
+(The category contains 35 articles.)
 
 - [Amazon Kindle Embed](https://wordpress.org/documentation/article/amazon-kindle-embed/)
 - [Animoto Embed](https://wordpress.org/documentation/article/animoto-embed/)
