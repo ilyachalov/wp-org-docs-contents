@@ -221,6 +221,11 @@ New WordPress Editor (as opposed to 'Classic Editor'), also known as 'Gutenberg'
 - [Embed Block](https://wordpress.org/documentation/article/embed-block/)
 - [How to use the View feature](https://wordpress.org/documentation/article/how-to-use-the-preview-function/)
 - [List View](https://wordpress.org/documentation/article/list-view/)
+- [More Options](https://wordpress.org/documentation/article/more-options/)
+- [Moving blocks](https://wordpress.org/documentation/article/moving-blocks/)
+- [Page/Post Settings sidebar](https://wordpress.org/documentation/article/page-post-settings-sidebar/)
+- [Preferences Overview](https://wordpress.org/documentation/article/preferences-overview/)
+- [Submit your Block Pattern to the Directory](https://wordpress.org/documentation/article/submit-your-block-pattern-to-the-directory/)
 - 
 
 ## Blocks
