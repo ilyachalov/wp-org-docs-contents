@@ -200,7 +200,12 @@ Get information on the default themes that ship with WordPress.
 - [Twenty Seventeen](https://wordpress.org/documentation/article/twenty-seventeen/)
 - [Twenty Sixteen](https://wordpress.org/documentation/article/twenty-sixteen/)
 - [Twenty Twenty](https://wordpress.org/documentation/article/twenty-twenty/)
-- 
+- [Twenty Twenty Changelog](https://wordpress.org/documentation/article/twenty-twenty-changelog/)
+- [Twenty Twenty-One](https://wordpress.org/documentation/article/twenty-twenty-one/)
+- [Twenty Twenty-One Changelog](https://wordpress.org/documentation/article/twenty-twenty-one-changelog/)
+- [Twenty Twenty-Three](https://wordpress.org/documentation/article/twenty-twenty-three/)
+- [Twenty Twenty-Two](https://wordpress.org/documentation/article/twenty-twenty-two/)
+- [Twenty Twenty-Two Changelog](https://wordpress.org/documentation/article/twenty-twenty-two-changelog/)
 
 ## [Block Editor](https://wordpress.org/documentation/category/block-editor/)
 
