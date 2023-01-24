@@ -186,7 +186,10 @@ Learn how to give the look and feel you want to your site.
 - [Introduction to Plugins](https://wordpress.org/documentation/article/introduction-to-plugins/)
 - [Layout Settings Overview](https://wordpress.org/documentation/article/layout-settings-overview/)
 - [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/)
-- 
+- [Site Editor](https://wordpress.org/documentation/article/site-editor/)
+- [Styles Overview](https://wordpress.org/documentation/article/styles-overview/)
+- [Use Gravatars](https://wordpress.org/documentation/article/use-gravatars/)
+- [Work with themes](https://wordpress.org/documentation/article/worik-with-themes/)
 
 ## [Default themes](https://wordpress.org/documentation/category/default-themes/)
 
