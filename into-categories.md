@@ -181,6 +181,11 @@ Learn how to give the look and feel you want to your site.
 - [Block themes](https://wordpress.org/documentation/article/block-themes/)
 - [Border Settings overview](https://wordpress.org/documentation/article/border-settings-overview/)
 - [Comparing Patterns, Template Parts, and Reusable Blocks](https://wordpress.org/documentation/article/comparing-patterns-template-parts-and-reusable-blocks/)
+- [Create a Favicon](https://wordpress.org/documentation/article/create-a-favicon/)
+- [Create a static front page](https://wordpress.org/documentation/article/create-a-static-front-page/)
+- [Introduction to Plugins](https://wordpress.org/documentation/article/introduction-to-plugins/)
+- [Layout Settings Overview](https://wordpress.org/documentation/article/layout-settings-overview/)
+- [Manage Plugins](https://wordpress.org/documentation/article/manage-plugins/)
 - 
 
 ## [Default themes](https://wordpress.org/documentation/category/default-themes/)
