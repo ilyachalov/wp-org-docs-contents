@@ -356,4 +356,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Post Template Block](https://wordpress.org/documentation/article/post-template-block/)
 - [Post Title Block](https://wordpress.org/documentation/article/post-title-block/)
 - [Posts List Block](https://wordpress.org/documentation/article/posts-list-block/)
-- 
+- [Query Loop Block](https://wordpress.org/documentation/article/query-loop-block/)
+- [Read More Block](https://wordpress.org/documentation/article/read-more-block/)
+- [Search Results Title Block](https://wordpress.org/documentation/article/search-results-title-block/)
+- [Site Logo Block](https://wordpress.org/documentation/article/site-logo-block/)
+- [Site Tagline Block](https://wordpress.org/documentation/article/site-tagline-block/)
+- [Site Title Block](https://wordpress.org/documentation/article/site-title-block/)
+- [Template Part Block](https://wordpress.org/documentation/article/template-part-block/)
+- [Term Description Block](https://wordpress.org/documentation/article/term-description-block/)
