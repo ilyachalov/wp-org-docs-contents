@@ -314,4 +314,17 @@ Learn how you can use the Editor and all the different types of blocks to custom
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
 
+- [Archives Block](https://wordpress.org/documentation/article/archives-block/)
+- [Calendar Block](https://wordpress.org/documentation/article/calendar-block/)
+- [Categories Block](https://wordpress.org/documentation/article/categories-block/)
+- [Custom HTML](https://wordpress.org/documentation/article/custom-html/)
+- [Latest Comments Block](https://wordpress.org/documentation/article/latest-comments-block/)
+- [Latest Posts Block](https://wordpress.org/documentation/article/latest-posts-block/)
+- [Page List Block](https://wordpress.org/documentation/article/page-list-block/)
+- [RSS Block](https://wordpress.org/documentation/article/rss-block/)
+- [Search Block](https://wordpress.org/documentation/article/search-block/)
+- [Shortcode Block](https://wordpress.org/documentation/article/shortcode-block/)
+- [Social Icons Block](https://wordpress.org/documentation/article/social-icons/)
+- [Tag Cloud Block](https://wordpress.org/documentation/article/tag-cloud-block/)
+
 ### [Theme blocks](https://wordpress.org/documentation/category/theme-blocks/)
