@@ -301,6 +301,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [SoundCloud Embed](https://wordpress.org/documentation/article/soundcloud-embed/)
 - [Speaker Deck Embed](https://wordpress.org/documentation/article/speaker-deck-embed/)
 - [Spotify Embed](https://wordpress.org/documentation/article/spotify-embed/)
+- [TED Embed](https://wordpress.org/documentation/article/ted-embed/)
+- [TikTok Embed](https://wordpress.org/documentation/article/tiktok-embed/)
+- [Tumblr Embed](https://wordpress.org/documentation/article/tumblr-embed/)
+- [Twitter Embed](https://wordpress.org/documentation/article/twitter-embed/)
+- [VideoPress Embed](https://wordpress.org/documentation/article/videopress-embed/)
 - 
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
