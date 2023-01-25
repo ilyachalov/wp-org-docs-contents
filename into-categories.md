@@ -291,6 +291,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Meetup Embed](https://wordpress.org/documentation/article/meetup-embed/)
 - [MixCloud Embed](https://wordpress.org/documentation/article/mixcloud-embed/)
 - [Pinterest Embed](https://wordpress.org/documentation/article/pinterest-embed/)
+- [Pocket Casts Embed](https://wordpress.org/documentation/article/pocket-casts-embed/)
+- [Reddit Embed](https://wordpress.org/documentation/article/reddit-embed/)
+- [ReverbNation Embed](https://wordpress.org/documentation/article/reverbnation-embed/)
+- [Screencast Embed](https://wordpress.org/documentation/article/screencast-block/)
+- [Scribd Embed](https://wordpress.org/documentation/article/scribd-embed/)
 - 
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
