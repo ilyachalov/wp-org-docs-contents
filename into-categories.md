@@ -281,6 +281,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Cloudup Embed](https://wordpress.org/documentation/article/cloudup-embed/)
 - [Crowdsignal Embed](https://wordpress.org/documentation/article/crowdsignal-embed/)
 - [Dailymotion Embed](https://wordpress.org/documentation/article/dailymotion-embed/)
+- [Embeds](https://wordpress.org/documentation/article/embeds/)
+- [Facebook Embed](https://wordpress.org/documentation/article/facebook-embed/)
+- [Flickr Embed](https://wordpress.org/documentation/article/flickr-embed/)
+- [Imgur Embed](https://wordpress.org/documentation/article/imgur-embed/)
+- [Instagram Embed](https://wordpress.org/documentation/article/instagram-embed/)
 - 
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
