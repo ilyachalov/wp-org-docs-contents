@@ -351,4 +351,9 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Post Date Block](https://wordpress.org/documentation/article/post-date-block/)
 - [Post Excerpt Block](https://wordpress.org/documentation/article/post-excerpt-block/)
 - [Post Featured Image Block](https://wordpress.org/documentation/article/post-featured-image-block/)
+- [Post Navigation Link Block](https://wordpress.org/documentation/article/post-navigation-link-block/)
+- [Post Tags Block](https://wordpress.org/documentation/article/post-tags-block/)
+- [Post Template Block](https://wordpress.org/documentation/article/post-template-block/)
+- [Post Title Block](https://wordpress.org/documentation/article/post-title-block/)
+- [Posts List Block](https://wordpress.org/documentation/article/posts-list-block/)
 - 
