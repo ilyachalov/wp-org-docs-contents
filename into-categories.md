@@ -341,4 +341,9 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Comment Template Block](https://wordpress.org/documentation/article/comment-template-block/)
 - [Comments Title Block](https://wordpress.org/documentation/article/comments-title-block/)
 - [Custom Link Block](https://wordpress.org/documentation/article/custom-link-block/)
+- [Navigation Block](https://wordpress.org/documentation/article/navigation-block/)
+- [Pagination Block](https://wordpress.org/documentation/article/pagination-block/)
+- [Post Author Biography Block](https://wordpress.org/documentation/article/post-author-biography-block/)
+- [Post Author Block](https://wordpress.org/documentation/article/post-author-block/)
+- [Post Categories Block](https://wordpress.org/documentation/article/post-categories-block/)
 - 
