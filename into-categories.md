@@ -296,6 +296,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [ReverbNation Embed](https://wordpress.org/documentation/article/reverbnation-embed/)
 - [Screencast Embed](https://wordpress.org/documentation/article/screencast-block/)
 - [Scribd Embed](https://wordpress.org/documentation/article/scribd-embed/)
+- [Slideshare Embed](https://wordpress.org/documentation/article/slideshare-embed/)
+- [SmugMug Embed](https://wordpress.org/documentation/article/smugmug-embed/)
+- [SoundCloud Embed](https://wordpress.org/documentation/article/soundcloud-embed/)
+- [Speaker Deck Embed](https://wordpress.org/documentation/article/speaker-deck-embed/)
+- [Spotify Embed](https://wordpress.org/documentation/article/spotify-embed/)
 - 
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
