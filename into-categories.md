@@ -336,4 +336,9 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Comment Content Block](https://wordpress.org/documentation/article/comment-content-block/)
 - [Comment Date Block](https://wordpress.org/documentation/article/comment-date-block/)
 - [Comment Edit Link Block](https://wordpress.org/documentation/article/comment-edit-link-block/)
+- [Comment Pagination Block](https://wordpress.org/documentation/article/comment-pagination-block/)
+- [Comment Reply Link Block](https://wordpress.org/documentation/article/comment-reply-link-block/)
+- [Comment Template Block](https://wordpress.org/documentation/article/comment-template-block/)
+- [Comments Title Block](https://wordpress.org/documentation/article/comments-title-block/)
+- [Custom Link Block](https://wordpress.org/documentation/article/custom-link-block/)
 - 
