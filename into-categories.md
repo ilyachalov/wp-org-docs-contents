@@ -306,7 +306,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Tumblr Embed](https://wordpress.org/documentation/article/tumblr-embed/)
 - [Twitter Embed](https://wordpress.org/documentation/article/twitter-embed/)
 - [VideoPress Embed](https://wordpress.org/documentation/article/videopress-embed/)
-- 
+- [Vimeo Embed](https://wordpress.org/documentation/article/vimeo-embed/)
+- [Wolfram Embed](https://wordpress.org/documentation/article/wolfram-embed/)
+- [WordPress Embed](https://wordpress.org/documentation/article/wordpress-embed/)
+- [WordPress.tv Embed](https://wordpress.org/documentation/article/wordpress-tv-embed-block/)
+- [YouTube Embed](https://wordpress.org/documentation/article/youtube-embed/)
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
 
