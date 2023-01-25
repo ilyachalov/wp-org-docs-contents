@@ -346,4 +346,9 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Post Author Biography Block](https://wordpress.org/documentation/article/post-author-biography-block/)
 - [Post Author Block](https://wordpress.org/documentation/article/post-author-block/)
 - [Post Categories Block](https://wordpress.org/documentation/article/post-categories-block/)
+- [Post Comments Form Block](https://wordpress.org/documentation/article/post-comments-form-block/)
+- [Post Content Block](https://wordpress.org/documentation/article/post-content-block/)
+- [Post Date Block](https://wordpress.org/documentation/article/post-date-block/)
+- [Post Excerpt Block](https://wordpress.org/documentation/article/post-excerpt-block/)
+- [Post Featured Image Block](https://wordpress.org/documentation/article/post-featured-image-block/)
 - 
