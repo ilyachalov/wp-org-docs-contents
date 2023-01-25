@@ -328,3 +328,12 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Tag Cloud Block](https://wordpress.org/documentation/article/tag-cloud-block/)
 
 ### [Theme blocks](https://wordpress.org/documentation/category/theme-blocks/)
+
+(The category contains 33 articles.)
+
+- [Archive Title Block](https://wordpress.org/documentation/article/archive-title-block/)
+- [Comment Author Name Block](https://wordpress.org/documentation/article/comment-author-name-block/)
+- [Comment Content Block](https://wordpress.org/documentation/article/comment-content-block/)
+- [Comment Date Block](https://wordpress.org/documentation/article/comment-date-block/)
+- [Comment Edit Link Block](https://wordpress.org/documentation/article/comment-edit-link-block/)
+- 
