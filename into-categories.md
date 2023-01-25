@@ -286,6 +286,11 @@ Learn how you can use the Editor and all the different types of blocks to custom
 - [Flickr Embed](https://wordpress.org/documentation/article/flickr-embed/)
 - [Imgur Embed](https://wordpress.org/documentation/article/imgur-embed/)
 - [Instagram Embed](https://wordpress.org/documentation/article/instagram-embed/)
+- [Issuu Embed](https://wordpress.org/documentation/article/issuu-embed/)
+- [Kickstarter Embed](https://wordpress.org/documentation/article/kickstarter-embed/)
+- [Meetup Embed](https://wordpress.org/documentation/article/meetup-embed/)
+- [MixCloud Embed](https://wordpress.org/documentation/article/mixcloud-embed/)
+- [Pinterest Embed](https://wordpress.org/documentation/article/pinterest-embed/)
 - 
 
 ### [Widget blocks](https://wordpress.org/documentation/category/widget-blocks/)
